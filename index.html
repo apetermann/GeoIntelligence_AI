@@ -6,7 +6,7 @@
   <title>GeoIntelligence AI — Visualizador</title>
   <link rel="icon" type="image/png" href="assets/favicon.png" />
   <link rel="stylesheet" href="vendor/leaflet/leaflet.css" />
-  <link rel="stylesheet" href="styles.css?v=15" />
+  <link rel="stylesheet" href="styles.css?v=16" />
 </head>
 <body>
   <div id="app">
@@ -40,12 +40,14 @@
             <b>Piloto Caladão / GME</b>
             <button type="button" id="pilotFocus" title="Focar no piloto e ligar as camadas">focar</button>
           </label>
-          <p class="pilot-info">Processo 832.781/2023 · Catují/MG · lítio (ANM) — contexto de terras raras da Axel/Caladão</p>
-          <label class="layer-toggle sub"><input type="checkbox" id="tglGeologia" /> Geologia (IBGE 1:250k)</label>
-          <label class="layer-toggle sub"><input type="checkbox" id="tglVizinhos" /> Processos vizinhos + Axel REE</label>
-          <label class="layer-toggle sub"><input type="checkbox" id="tglEstruturas" /> Falhas e fraturas</label>
-          <label class="layer-toggle sub"><input type="checkbox" id="tglBuffers" /> Buffers 5/10/25/50 km</label>
-          <label class="layer-toggle sub"><input type="checkbox" id="tglFolhas" /> Folhas 1:100k (SGB)</label>
+          <p class="pilot-info">832.781/2023 · Catují/MG · lítio (ANM)</p>
+          <div class="pilot-layers">
+            <label class="layer-toggle sub"><input type="checkbox" id="tglGeologia" /> Geologia 1:250k</label>
+            <label class="layer-toggle sub"><input type="checkbox" id="tglVizinhos" /> Vizinhos + Axel</label>
+            <label class="layer-toggle sub"><input type="checkbox" id="tglEstruturas" /> Falhas/fraturas</label>
+            <label class="layer-toggle sub"><input type="checkbox" id="tglBuffers" /> Buffers (km)</label>
+            <label class="layer-toggle sub"><input type="checkbox" id="tglFolhas" /> Folhas 1:100k</label>
+          </div>
         </div>
       </div>
 
@@ -89,6 +91,6 @@
   </div>
 
   <script src="vendor/leaflet/leaflet.js"></script>
-  <script src="app.js?v=15"></script>
+  <script src="app.js?v=16"></script>
 </body>
 </html>
