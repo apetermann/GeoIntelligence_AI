@@ -57,9 +57,7 @@ html, body {
   height: auto;
   display: block;
 }
-.brand-atlantica { width: 112px; }
-.brand-nexial { width: 118px; }
-.brand-sep { align-self: stretch; width: 1px; background: #e3e6ea; margin: 4px 0; }
+.brand-nexial { width: 132px; }
 .sidebar-header h1 {
   margin: 0;
   font-size: 18px;
@@ -342,8 +340,7 @@ input[type="checkbox"] { accent-color: var(--accent-2); width: 15px; height: 15p
   /* Cabeçalho e logos um pouco menores em telas estreitas. */
   .sidebar-header { padding: 14px 16px 12px; }
   .brand { gap: 12px; padding: 10px 12px; }
-  .brand-atlantica { width: 100px; }
-  .brand-nexial { width: 106px; }
+  .brand-nexial { width: 120px; }
   .sidebar-header h1 { font-size: 17px; }
 
   /* Padding lateral consistente e mais enxuto. */

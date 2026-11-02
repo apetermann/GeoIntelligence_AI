@@ -3,22 +3,20 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Áreas Atlântica Minas e Empresas Listadas — Mapa de Mineração</title>
+  <title>Mineração no Brasil — Empresas Listadas e Áreas</title>
   <link rel="icon" type="image/png" href="assets/favicon.png" />
   <link rel="stylesheet" href="vendor/leaflet/leaflet.css" />
-  <link rel="stylesheet" href="styles.css?v=13" />
+  <link rel="stylesheet" href="styles.css?v=14" />
 </head>
 <body>
   <div id="app">
     <aside id="sidebar">
       <header class="sidebar-header">
         <div class="brand">
-          <img src="assets/atlantica-logo.png" alt="Atlântica Minas" class="brand-atlantica" />
-          <div class="brand-sep"></div>
           <img src="assets/nexial-logo.png" alt="Nexial Partners" class="brand-nexial" />
         </div>
-        <h1>Áreas Atlântica Minas <span>e Empresas Listadas</span></h1>
-        <p class="subtitle">Áreas da Atlântica Minas e empresas de mineração listadas em ASX, TSX, TSX.V e Nasdaq com projetos no Brasil</p>
+        <h1>Mineração <span>no Brasil</span></h1>
+        <p class="subtitle">Empresas de mineração listadas em ASX, TSX, TSX.V e Nasdaq, com projetos e áreas no Brasil</p>
       </header>
 
       <div class="controls">
@@ -45,7 +43,7 @@
         <div class="layer-group">
           <label class="layer-toggle">
             <input type="checkbox" id="tenementsToggle" checked />
-            <b>Áreas Atlântica Minas</b>&nbsp;(<span id="tenementsCount">…</span>)
+            <b>Áreas de mineração</b>&nbsp;(<span id="tenementsCount">…</span>)
             <button type="button" id="tenementsFocus" title="Centralizar o mapa nas áreas">focar</button>
           </label>
           <select id="substanceFilter" aria-label="Filtrar áreas por substância">
@@ -77,6 +75,6 @@
   </div>
 
   <script src="vendor/leaflet/leaflet.js"></script>
-  <script src="app.js?v=13"></script>
+  <script src="app.js?v=14"></script>
 </body>
 </html>

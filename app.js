@@ -37,7 +37,7 @@ function colorFor(commodity) {
   return COMMODITY_COLORS.default;
 }
 
-// Cores das áreas Atlântica por substância (alinhadas às commodities das empresas).
+// Cores das áreas (processos minerários) por substância, alinhadas às commodities.
 const SUBSTANCE_COLORS = {
   "MINÉRIO DE FERRO": "#f97316",
   "FERRO": "#f97316",
@@ -139,7 +139,7 @@ async function init() {
     else MAP.removeLayer(COMPANIES_LAYER);
   });
 
-  // Camada de áreas Atlântica
+  // Camada de áreas (processos minerários)
   document.getElementById("tenementsToggle").addEventListener("change", renderTenements);
   document.getElementById("substanceFilter").addEventListener("change", renderTenements);
   document.getElementById("tenementsFocus").addEventListener("click", () => {
@@ -296,7 +296,7 @@ function tenementPopup(p) {
   const area = p.area_ha ? `${p.area_ha} ha` : "";
   return `
     <div class="popup-title">Processo ${p.processo || "—"}</div>
-    <div class="popup-sub">Área de mineração · Atlântica Minas</div>
+    <div class="popup-sub">Área · processo minerário</div>
     ${row("Substância", p.substancia)}
     ${row("Uso", p.uso)}
     ${row("Fase", p.fase)}
