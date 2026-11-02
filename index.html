@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mineração no Brasil — Empresas Listadas e Áreas</title>
+  <title>GeoIntelligence AI — Visualizador</title>
   <link rel="icon" type="image/png" href="assets/favicon.png" />
   <link rel="stylesheet" href="vendor/leaflet/leaflet.css" />
-  <link rel="stylesheet" href="styles.css?v=14" />
+  <link rel="stylesheet" href="styles.css?v=15" />
 </head>
 <body>
   <div id="app">
@@ -15,8 +15,9 @@
         <div class="brand">
           <img src="assets/nexial-logo.png" alt="Nexial Partners" class="brand-nexial" />
         </div>
-        <h1>Mineração <span>no Brasil</span></h1>
-        <p class="subtitle">Empresas de mineração listadas em ASX, TSX, TSX.V e Nasdaq, com projetos e áreas no Brasil</p>
+        <h1>GeoIntelligence <span>AI</span></h1>
+        <p class="subtitle">Visualizador de inteligência geológica — empresas listadas de mineração e piloto Caladão / GME</p>
+        <button type="button" id="reportBtn" class="report-btn">📄 Relatório geológico (PDF)</button>
       </header>
 
       <div class="controls">
@@ -27,33 +28,28 @@
             <input type="checkbox" id="companiesToggle" checked />
             <b>Empresas</b>&nbsp;(<span id="companiesCount">…</span>)
           </label>
-          <select id="exchangeFilter" aria-label="Filtrar por bolsa">
-            <option value="">Todas as bolsas</option>
-          </select>
+          <select id="exchangeFilter" aria-label="Filtrar por bolsa"><option value="">Todas as bolsas</option></select>
           <div class="filter-row">
-            <select id="commodityFilter" aria-label="Filtrar por commodity">
-              <option value="">Todas as commodities</option>
-            </select>
-            <select id="stateFilter" aria-label="Filtrar por estado">
-              <option value="">Todos os estados</option>
-            </select>
+            <select id="commodityFilter" aria-label="Filtrar por commodity"><option value="">Todas as commodities</option></select>
+            <select id="stateFilter" aria-label="Filtrar por estado"><option value="">Todos os estados</option></select>
           </div>
         </div>
 
         <div class="layer-group">
           <label class="layer-toggle">
-            <input type="checkbox" id="tenementsToggle" checked />
-            <b>Áreas de mineração</b>&nbsp;(<span id="tenementsCount">…</span>)
-            <button type="button" id="tenementsFocus" title="Centralizar o mapa nas áreas">focar</button>
+            <b>Piloto Caladão / GME</b>
+            <button type="button" id="pilotFocus" title="Focar no piloto e ligar as camadas">focar</button>
           </label>
-          <select id="substanceFilter" aria-label="Filtrar áreas por substância">
-            <option value="">Todas as substâncias</option>
-          </select>
+          <p class="pilot-info">Processo 832.781/2023 · Catují/MG · lítio (ANM) — contexto de terras raras da Axel/Caladão</p>
+          <label class="layer-toggle sub"><input type="checkbox" id="tglGeologia" /> Geologia (IBGE 1:250k)</label>
+          <label class="layer-toggle sub"><input type="checkbox" id="tglVizinhos" /> Processos vizinhos + Axel REE</label>
+          <label class="layer-toggle sub"><input type="checkbox" id="tglEstruturas" /> Falhas e fraturas</label>
+          <label class="layer-toggle sub"><input type="checkbox" id="tglBuffers" /> Buffers 5/10/25/50 km</label>
+          <label class="layer-toggle sub"><input type="checkbox" id="tglFolhas" /> Folhas 1:100k (SGB)</label>
         </div>
       </div>
 
       <div class="stats" id="stats"></div>
-
       <ul id="companyList" class="company-list"></ul>
 
       <footer class="sidebar-footer">
@@ -74,7 +70,25 @@
     </main>
   </div>
 
+  <!-- Modal do relatório (PDF) -->
+  <div id="reportModal" class="report-modal">
+    <div id="reportBackdrop" class="report-backdrop"></div>
+    <div class="report-panel">
+      <div class="report-head">
+        <div class="report-tabs">
+          <button class="report-tab active" data-doc="analise">Análise de potencial</button>
+          <button class="report-tab" data-doc="dossie">Dossiê da área</button>
+        </div>
+        <div class="report-actions">
+          <a id="reportOpen" href="#" target="_blank" rel="noopener" class="report-open">Abrir em nova aba ↗</a>
+          <button id="reportClose" class="report-close" aria-label="Fechar">✕</button>
+        </div>
+      </div>
+      <iframe id="reportFrame" title="Relatório" src="about:blank"></iframe>
+    </div>
+  </div>
+
   <script src="vendor/leaflet/leaflet.js"></script>
-  <script src="app.js?v=14"></script>
+  <script src="app.js?v=15"></script>
 </body>
 </html>

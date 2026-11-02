@@ -272,6 +272,32 @@ input[type="checkbox"] { accent-color: var(--accent-2); width: 15px; height: 15p
 .legend-item .dot { width: 11px; height: 11px; border-radius: 50%; flex: 0 0 auto; }
 .legend-count { margin-left: auto; color: var(--muted); font-size: 11px; }
 
+/* ---------- Botão relatório + piloto ---------- */
+.report-btn { margin-top: 10px; width: 100%; background: var(--accent-2); color: #fff; border: none;
+  border-radius: 8px; padding: 9px; font-size: 13px; font-weight: 700; cursor: pointer; }
+.report-btn:hover { filter: brightness(1.08); }
+.pilot-info { margin: 2px 0 6px; font-size: 11.5px; color: var(--muted); line-height: 1.4; }
+.layer-toggle.sub { font-size: 12.5px; font-weight: 400; gap: 7px; }
+.layer-toggle.sub b { font-weight: 400; }
+
+/* ---------- Modal do relatório (PDF) ---------- */
+.report-modal { display: none; position: fixed; inset: 0; z-index: 5000; }
+.report-modal.open { display: block; }
+.report-backdrop { position: absolute; inset: 0; background: rgba(0,0,0,.6); }
+.report-panel { position: absolute; inset: 4% 5%; background: var(--panel); border: 1px solid var(--border);
+  border-radius: 12px; display: flex; flex-direction: column; overflow: hidden; box-shadow: var(--shadow); }
+.report-head { display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  padding: 8px 10px; border-bottom: 1px solid var(--border); }
+.report-tabs { display: flex; gap: 6px; }
+.report-tab { background: var(--panel-2); border: 1px solid var(--border); color: var(--muted);
+  border-radius: 7px; padding: 6px 12px; font-size: 12.5px; cursor: pointer; }
+.report-tab.active { background: var(--accent-2); color: #fff; border-color: var(--accent-2); }
+.report-actions { display: flex; align-items: center; gap: 12px; }
+.report-open { color: #9ecbff; font-size: 12.5px; text-decoration: none; white-space: nowrap; }
+.report-close { background: transparent; border: none; color: var(--text); font-size: 18px; cursor: pointer; line-height: 1; }
+.report-panel iframe { flex: 1; border: 0; width: 100%; background: #fff; }
+@media (max-width: 760px) { .report-panel { inset: 2% 3%; } }
+
 /* Leaflet popup theming */
 .leaflet-popup-content-wrapper {
   background: var(--panel);
