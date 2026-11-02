@@ -228,6 +228,9 @@ input[type="checkbox"] { accent-color: var(--accent-2); width: 15px; height: 15p
 /* ---------- Map ---------- */
 #mapWrap { position: relative; flex: 1; }
 #map { width: 100%; height: 100%; background: #0b0e12; }
+/* Deixa o mapa base (OpenStreetMap) com aparência escura.
+   Só os ladrilhos são afetados; marcadores, áreas e legenda ficam intactos. */
+.leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) brightness(0.92) contrast(0.9) saturate(0.8); }
 
 .legend {
   position: absolute;

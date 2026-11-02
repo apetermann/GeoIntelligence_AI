@@ -162,9 +162,10 @@ function setupMap() {
   MAP = L.map("map", { zoomControl: true, attributionControl: true })
     .setView([-15.5, -49], 4);
 
-  L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
-    attribution: '&copy; OpenStreetMap &copy; CARTO',
-    subdomains: "abcd",
+  // Mapa base: OpenStreetMap (gratuito, sem chave). O tema escuro é feito por
+  // um filtro CSS em .leaflet-tile-pane (styles.css).
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: '&copy; OpenStreetMap',
     maxZoom: 19,
   }).addTo(MAP);
 
