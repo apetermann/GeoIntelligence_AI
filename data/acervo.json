@@ -1,0 +1,1831 @@
+{
+ "gerado": "2026-11-03",
+ "area": "GME / Caladão — ANM 832.781/2023 — Catují/Padre Paraíso, MG",
+ "fonte": "GeoBusca / RIGeo — Serviço Geológico do Brasil",
+ "temas": {
+  "A": "Geofísica aérea / radiometria",
+  "B": "Lítio e pegmatitos",
+  "C": "Terras raras (ETR)",
+  "D": "Geologia e cartografia (folhas)",
+  "E": "Granitos e leucogranitos",
+  "F": "Geoquímica",
+  "G": "Recursos e potencial mineral",
+  "H": "Estrutural / tectônica (Araçuaí)",
+  "I": "Hidrogeologia / águas subterrâneas"
+ },
+ "buscas": [
+  {
+   "tema": "A. Geofísica aérea / radiometria",
+   "pergunta": "levantamento aerogeofísico gamaespectrometria e radiometria na região de Padre Paraíso e Catují, Minas Gerais",
+   "sintese": "No acervo indexado pelo GeoBusca, 15 documentos citam \"catují\" e \"padre paraíso\": 15 no Repositório Institucional de Geociências. Nos documentos do acervo, o levantamento aerogeofísico na região de Padre Paraíso e Catuji aparece como parte de um relatório de 1975 sobre a região sul do Jequitinhonha, nordeste de Minas Gerais (Relatório de reconhecimento geológico-geofísico,…). Nesse trecho, são mencionadas “duas extensas anomalias aeromagnetométricas” nas imediações de Padre Paraíso/Catuji e “medições cintilométricas” nas proximidades de Catuji, com anomalias isoladas intensas [3]. O trecho também registra que, nas proximidades de Padre Paraíso e Catuji, os “gnaisses” foram os únicos tipos de rochas encontrados, e que as anomalias magnéticas são provavelmente causadas por diferenciações litológicas e por horizontes ricos em magnetita dentro desses gnaisses [3]. Para a anomalia magnética de Padre Paraíso, foram medidos dois perfis AZ; no perfil n° I, o topo do corpo perturbador foi calculado em cerca de 40 m e sua magnetização em cerca de 70 gamas [3]. Não encontrei, nesses trechos, um relatório específico de gamaespectrometria e radiometria dedicado a Padre Paraíso e Catuji com resultados radiométricos detalhados. O que foi encontrado é um trecho com menção a medições cintilométricas e a anomalias aeromagnetométricas em Padre Paraíso/Catuji [3], e outro documento sobre Padre Paraíso que trata de cadastro de abastecimento por águas subterrâneas, não de aerogeofísica (Projeto cadastro de"
+  },
+  {
+   "tema": "B. Lítio e pegmatitos",
+   "pergunta": "ocorrências e potencial de lítio e pegmatitos na região de Catují, Padre Paraíso e médio Jequitinhonha, nordeste de Minas Gerais",
+   "sintese": "No acervo indexado pelo GeoBusca, 16 documentos citam \"catují\": 16 no Repositório Institucional de Geociências. Nos documentos do acervo, há registro de ocorrências e de potencial de lítio na região do médio rio Jequitinhonha, mas não foi encontrado um trecho específico sobre a região de Catují, Padre Paraíso como local de ocorrência de lítio ou pegmatitos (Avaliação do potencial do litio no Brasil) [2] [4] [5] [7] [8]. O relatório de 2016 informa que a área do médio rio Jequitinhonha “compreende a principal região produtora de lítio do Brasil”, situada nos municípios de Itinga e Araçuaí, e que esses municípios detêm “100% das reservas oficiais do metal” [1]. O mesmo relatório diz que foram descritos “quarenta e cinco pontos de pegmatitos com lítio” na área do projeto, cobrindo boa parte das concentrações mais importantes do metal [2]. Também há indicação de potenciais áreas favoráveis em mapa de 2025, que trata de “pegmatitos ricos em lítio (espodumênio com ou sem petalita associada) no médio rio Jequitinhonha” (Mapa de favorabilidade para pegmatitos ricos em…). O trecho de 2005 sobre Padre Paraíso trata do cadastro de"
+  },
+  {
+   "tema": "C. Terras raras (ETR)",
+   "pergunta": "ocorrências e potencial de terras raras (elementos de terras raras, ETR) no nordeste de Minas Gerais, vale do Jequitinhonha e Orógeno Araçuaí",
+   "sintese": "No acervo indexado pelo GeoBusca, 5 documentos citam \"gerais vale\": 4 no Repositório Institucional de Geociências e 1 no Site institucional do Serviço Geológico do Brasil. Nos documentos do acervo, os trechos mostram ocorrências e potencial de terras raras no nordeste de Minas Gerais, no vale do Jequitinhonha e no Orógeno Araçuaí em recortes distintos (Avaliação do potencial do litio no Brasil) [2] [5] [7] [8]. No Projeto Avaliação do Potencial do Lítio no Brasil, a área do vale do rio Jequitinhonha, no nordeste de Minas Gerais, é descrita como parte da Província Pegmatítica Oriental do Brasil, que compreende 100% das reservas oficiais de lítio do país, e os pegmatitos L-C-T se relacionam à Suíte Єγ4S, enquanto a Formação Salinas hospeda os pegmatitos mais ricos em lítio [1]. No relatório de 1975, a região entre Coronel Murta e Araçuaí é descrita como famosa por pegmatitos mineralizados, e entre os minerais explorados estão lepidolita, ambligonita, petalita, espodumênio e berilo (Relatório de reconhecimento geológico-geofísico,…). No Projeto Jequitinhonha, a área de cartografia regional abrange as folhas Comercinho, Jequitinhonha, Almenara, Itaobim, Joaíma e Rio do Prado, e os trabalhos incluíram litogeoquímica de elementos terras raras (Projeto Jequitinhonha). Quanto a ETR, o Atlas geoquímico do estado de Minas Gerais informa sobre o lantânio como um dos elementos terras-raras, encontrado em minerais como monazita, bastnasita e allanita, e classifica o elemento como de grande potencial econômico, atual e futuro (Atlas geoquímico do estado de Minas Gerais). O Atlas geoquímico da bacia do Rio São Francisco registra o cério como pertencente à série dos lantanídeos ou elementos de terras-raras e encontrado principalmente em monazita, cerita e allanita (Atlas geoquímico da bacia do Rio São Francisco). Já o trecho do Atlas geoquímico do estado de Minas Gerais localiza as amostras em uma área de 41 mil km² principalmente nas bacias dos rios Jequitinhonha, Mucuri, Doce, Paraíba do Sul e Grande, com núcleos também em outras bacias, mas não traz, nesse trecho, o consolidado específico de ETR para o nordeste de Minas Gerais [4]. O trecho sobre o município de Araçuaí situa o município no médio vale do rio Jequitinhonha, no nordeste do estado de Minas Gerais, mas não descreve no trecho recuperado uma ocorrência específica de ETR no município (Projeto cadastro de"
+  },
+  {
+   "tema": "D. Geologia e cartografia (folhas)",
+   "pergunta": "mapeamento geológico e cartas geológicas das folhas Padre Paraíso e Novo Cruzeiro, nordeste de Minas Gerais, escala 1:100.000",
+   "sintese": "No acervo indexado pelo GeoBusca, 252 documentos citam \"cartas geológicas\": 220 no Repositório Institucional de Geociências, 31 no Site institucional do Serviço Geológico do Brasil e 1 no JGSB, o Journal of the Geological Survey of Brazil. Nos documentos do acervo, há referência a mapeamentos geológicos e cartas geológicas dessas folhas em escala 1:100.000, mas não aparece um quadro único consolidado para Padre Paraíso e Novo Cruzeiro juntos. O que os trechos mostram são exemplos e recortes distintos, com datas e finalidades diferentes. Para Padre Paraíso, o trecho de 2005 menciona o município no âmbito do projeto cadastro de"
+  },
+  {
+   "tema": "E. Granitos e leucogranitos",
+   "pergunta": "granitos, leucogranitos e suítes graníticas da região de Catují e Padre Paraíso, Orógeno Araçuaí, nordeste de Minas Gerais",
+   "sintese": "No acervo indexado pelo GeoBusca, 16 documentos citam \"catují\": 16 no Repositório Institucional de Geociências. Nos documentos do acervo, os trechos mostram granitos, leucogranitos e suítes graníticas na região do Orógeno Araçuaí e no nordeste de Minas Gerais, mas não há uma síntese específica para Catují e Padre Paraíso juntos no mesmo recorte; o que aparece são exemplos dispersos de unidades e áreas próximas (Projeto cadastro de"
+  },
+  {
+   "tema": "F. Geoquímica",
+   "pergunta": "geoquímica de sedimento de corrente, solo e prospecção geoquímica no médio e baixo Jequitinhonha, nordeste de Minas Gerais",
+   "sintese": "No acervo indexado pelo GeoBusca, 29 documentos citam \"solo e prospecção\": 29 no Repositório Institucional de Geociências. Nos documentos do acervo, a geoquímica de sedimento de corrente, solo e a prospecção geoquímica no Jequitinhonha aparecem em recortes de diferentes datas e áreas, e não há um texto único que consolide tudo para o médio e baixo Jequitinhonha. O que os trechos mostram é a aplicação desses métodos em projetos e relatórios específicos, com objetivos e recortes distintos (Geoquímica multiusos no Estado de Minas Gerais) [7] [8]. No relatório preliminar de 1974 sobre Minas Gerais e Espírito Santo, a “prospecção de orientação” inclui “sedimentos de corrente” e “amostras de solo”, com áreas como “Guandu/Castelo” e “Pratinha, Argentia, Tapira, Serra da Canastra” (Relatório Preliminar de Prospecção Geoquímica nos…). No relatório de 1975 da região sul do Jequitinhonha, o sumário registra “geoquímica” como parte do trabalho, mas o trecho recuperado não detalha ali os resultados de sedimento de corrente ou solo (Relatório de reconhecimento geológico-geofísico,…). No Projeto Jequitinhonha, os trabalhos tiveram “geoquímica de sedimentos de corrente e de concentrados de bateia” entre os complementos metodológicos do projeto (Projeto Jequitinhonha). Para o médio Rio Jequitinhonha, o trecho de 2016 informa que o estudo definiu “o principal halo geoquímico na região de Itinga”, com teores anômalos de Be, Cs e Li, e cita como indicadores indiretos As e Hf; também menciona que foram usados concentrados de bateia para reconhecer minerais indicadores diretos e indiretos (Avaliação do potencial do litio no Brasil). O trecho de 1975 sobre Jequitinhonha Norte recomenda “cadastramento das jazidas” e “amostragem de sedimentos de corrente para análise geoquímica e de minerais pesados” (Relatório de reconhecimento geológico-geofísico,…). Esta síntese foi gerada por inteligência artificial com base em algumas"
+  },
+  {
+   "tema": "G. Recursos e potencial mineral",
+   "pergunta": "recursos minerais, minerais críticos e potencial mineral da região de Araçuaí, Itinga e vale do Jequitinhonha, nordeste de Minas Gerais",
+   "sintese": "No acervo indexado pelo GeoBusca, 24 documentos citam \"araçuaí itinga\": 17 no Repositório Institucional de Geociências, 5 no Site institucional do Serviço Geológico do Brasil e 2 no JGSB, o Journal of the Geological Survey of Brazil. Nos documentos do acervo, a região de Araçuaí, Itinga e do vale do Jequitinhonha, no nordeste de Minas Gerais, aparece ligada a recursos minerais, com foco recorrente em lítio e pegmatitos (Avaliação do potencial do litio no Brasil) [3] [6] [7]. Os trechos mostram que o projeto de 2016 trata da área do médio rio Jequitinhonha como a principal região produtora de lítio do Brasil, situada nos municípios de Itinga e Araçuaí, e informa que essa área detinha 100% das reservas oficiais do metal segundo o Anuário Mineral Brasileiro - AMB 2010, ano base 2009 [2]. O mapa de 2025 registra pontos com pegmatitos ricos em lítio e identifica ocorrências minerais em locais como Mina da Xuxa, Outro Lado, Mina da Cachoeira, Bandeira, Murial, Barreiro, Lavra do Meio, Nezinho de Chicão, Baixa Grande, Maxixe, Tamboril, Elvira, Colina, Fog's Block, Planalto, Lavra do Severino, Lavra do Algodão, Mina da Samambaia, Lavra do Valdívio, Lavra do Zué/Dim, Fazenda Bananal e Neves - Anitta (Mapa de favorabilidade para pegmatitos ricos em…). Quanto ao potencial mineral, os trechos indicam que a área de atuação do estudo de 2021 abrangeu, no Vale do Rio Doce, a região entre Governador Valadares, Açucena, Galiléia e Caratinga, e, no vale do Rio Jequitinhonha, Itinga, Araçuaí, Virgem da Lapa, Caraí e Novo Cruzeiro (Estudo das argilas dos Vales dos Rios Doce e…). O mesmo estudo afirma que a presença de suítes intrusivas leucograníticas, pegmatitos e rochas vulcânicas piroclásticas félsicas favorece a formação de potenciais depósitos de argila branca no setor Nordeste [1]. O texto de 2025 sobre exposição ao alumínio também menciona que, na região Araçuaí-Itinga, anomalias geoquímicas significativas de lítio e alumínio em pegmatitos definem a paisagem geoquímica, e que décadas de atividade minerária intensa, com operações a céu aberto e subterrâneas, foram documentadas (Exposure of aluminum in the Araçuaí-Itinga Lithium…). Se a pergunta pede um consolidado de “potencial mineral” e “minerais críticos” para toda a região, os trechos não trazem esse consolidado fechado; trazem recortes diferentes sobre lítio, pegmatitos, argilas e anomalias geoquímicas, em datas distintas [1] [2] [3] [6]. Esta síntese foi gerada por inteligência artificial com base em algumas"
+  },
+  {
+   "tema": "H. Estrutural / tectônica (Araçuaí)",
+   "pergunta": "geologia estrutural, tectônica e evolução do Orógeno Araçuaí no nordeste de Minas Gerais, faixas de cisalhamento e deformação",
+   "sintese": "No acervo indexado pelo GeoBusca, 17 documentos citam \"evolução do orógeno araçuaí\": 17 no Repositório Institucional de Geociências. Nos documentos do acervo, a evolução do Orógeno Araçuaí no nordeste de Minas Gerais aparece como um conjunto de fases deformacionais, com transporte tectônico e zonas de cisalhamento descritas em recortes distintos (Caracterização de metadiamictitos ferruginosos da…) [2] [5] [6] [7] [8]. Os trechos mostram, por exemplo, que no Grupo Macaúbas houve três fases: D1 com foliação regional S1, direção N-S e vergência para oeste; D2 com clivagem de crenulação S2 mergulhando para oeste e dobras vergentes para leste; e D3 com fraturas direcionadas NW e NE, associadas a grandes flexuras regionais [1]. Em outra síntese, a fase D1 é descrita como transporte tectônico para norte devido à colisão dos crátons Rio de La Plata e São Francisco, e D2 aparece apenas como início de uma descrição interrompida no trecho recuperado (Geologia e recursos minerais da folha Viçosa,…). Quanto às faixas e zonas de cisalhamento, os trechos citam a Zona de Cisalhamento de Dom Silvério, a Zona de Cisalhamento de Pedra Branca e a Zona de Cisalhamento de Abre Campo no modelo tectônico da porção sudeste do orógeno [2]. Também aparecem a Zona de Cisalhamento de Ponte Nova, formada no contexto de aumento da tectônica para oeste [2], o lineamento Guaçuí como expressão de transcorrência destrais no sudeste de Minas Gerais, Espírito Santo e Rio de Janeiro (Geologia e recursos minerais da folha Manhumirim…), e a zona de inversão da vergência em torno do meridiano 41º30’ W (Caracterização do arco magmático do orógeno Araçuaí…). Sobre a evolução regional, os trechos indicam que a área do Projeto Jequitinhonha integra o Orógeno Araçuaí, com limite ocidental e setentrional no Cráton do São Francisco e continuidade oriental no Cinturão W-Congo (Projeto Jequitinhonha). Também registram que o embasamento do orógeno é arqueano e paleoproterozóico [7], enquanto o núcleo cristalino apresenta metamorfismo entre fácies anfibolito e granulito e foliação penetrativa com vergência em direção ao cráton do São Francisco [6]. Esta síntese foi gerada por inteligência artificial com base em algumas"
+  },
+  {
+   "tema": "I. Hidrogeologia / águas subterrâneas",
+   "pergunta": "hidrogeologia, poços e disponibilidade de águas subterrâneas nos municípios de Catují, Padre Paraíso e Itaipé, Minas Gerais",
+   "sintese": "De acordo com o SIAGAS, o sistema de informações de águas subterrâneas do SGB, existem 30 pontos de água subterrânea cadastrados em Padre Paraíso, MG. Os trechos citados a seguir vêm dos documentos do acervo e descrevem o assunto: eles não repetem a lista acima, que foi obtida diretamente no cadastro. No acervo indexado pelo GeoBusca, 16 documentos citam \"catují\": 16 no Repositório Institucional de Geociências. Nos documentos do acervo, os trechos recuperados mostram hidrologia e poços para Padre Paraíso, Caraí, Itapebi e uma área ampla do norte de Minas, mas não trazem um recorte específico para Catují e Itaipé como municípios em conjunto com Padre Paraíso (Projeto cadastro de"
+  }
+ ],
+ "n_docs": 82,
+ "n_hospedados": 50,
+ "docs": [
+  {
+   "id": 115,
+   "titulo": "Geologia e petrografia do corpo metagabróico pré cambriano de São Sebastião da Vitória, Minas Gerais",
+   "ano": "1996",
+   "temas": [
+    "E"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/115",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/7ddb469f-354f-4762-a33a-b58336597c26/content",
+    "bytes": 56872434,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Geologia e petrografia do corpo metagabróico pré cambriano de São Sebastião da Vitória, Minas Gerais RIGeo · 1996 · página 31 Ritapolis, os quais apresentam uma grande variedade petrográfica, encerrando granitos, adamell"
+   ]
+  },
+  {
+   "id": 130,
+   "titulo": "Geologia e geoquímica de rochas metamáficas e meta-ultramáficas da região de Alvarenga, MG, e suas implicações geotectônicas",
+   "ano": "1999",
+   "temas": [
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/130",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_130_geologia-e-geoquimica-de-rochas-metamaficas-e-meta-ultr.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/ce7a319c-77be-4d03-8336-2d3f7a655155/content",
+    "bytes": 16165101,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Geologia e geoquímica de rochas metamáficas e meta-ultramáficas da região de Alvarenga, MG, e suas implicações geotectônicas RIGeo · 1999 · página 38 Pinto et al. (1997) e Oliveira et al. (1997) definem um estilo de defo"
+   ]
+  },
+  {
+   "id": 243,
+   "titulo": "Estruturação e alteração metassomática do ortognaisse açucena (suíte borrachudos) na região de Ipatinga, Minas Gerais",
+   "ano": "2002",
+   "temas": [
+    "E"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/243",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_243_estruturacao-e-alteracao-metassomatica-do-ortognaisse-a.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/477fe7a9-5514-4d49-a804-75bf31495117/content",
+    "bytes": 1681272,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Estruturação e alteração metassomática do ortognaisse açucena (suíte borrachudos) na região de Ipatinga, Minas Gerais RIGeo · 2002 · página 17 Segundo o autor, a deformação regional não foi pervasiva na phase Petí sendo,"
+   ]
+  },
+  {
+   "id": 349,
+   "titulo": "Evolução geotectônica proterozóica da região de São Gonçalo do Sapucaí, sul de Minas Gerais",
+   "ano": "2010",
+   "temas": [
+    "E",
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/349",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/bbfc3ebf-18fb-4388-9db9-bb65968b47a1/content",
+    "bytes": 94904506,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Evolução geotectônica proterozóica da região de São Gonçalo do Sapucaí, sul de Minas Gerais RIGeo · 2010 · página 10 localmente com granulos e seixos pingados, A6) biotita-xistos – gnaisses grossos, com intercalações de",
+    "Evolução geotectônica proterozóica da região de São Gonçalo do Sapucaí, sul de Minas Gerais RIGeo · 2010 · página 57 Ocorrem em discordância angular e litológica sobre todas as unidades precambrianas. Coberturas coluvion"
+   ]
+  },
+  {
+   "id": 420,
+   "titulo": "Evolução geotectônica neoproterozóica na região de Heliodora, sul de Minas Gerais",
+   "ano": "2009",
+   "temas": [
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/420",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/cce761ef-6f16-4a12-b3bb-1aa09cf2bbcc/content",
+    "bytes": 40467854,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Evolução geotectônica neoproterozóica na região de Heliodora, sul de Minas Gerais RIGeo · 2009 · página 20 Orogen and identified in the rocks of the Andrelândia Megasequence. In S-type granitoids only indications of a re"
+   ]
+  },
+  {
+   "id": 437,
+   "titulo": "Avaliação do risco geológico à exposição de elementos químicos à saúde ambiental, na região de Araçuaí-Itinga, Minas Gerais, Brasil",
+   "ano": "2011",
+   "temas": [
+    "C",
+    "E",
+    "G"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/437",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_437_avaliacao-do-risco-geologico-a-exposicao-de-elementos-q.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/48788ec4-c260-4768-b9a7-7c4bf1b53dd6/content",
+    "bytes": 8981842,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Avaliação do risco geológico à exposição de elementos químicos à saúde ambiental, na região de Araçuaí-Itinga, Minas Gerais, Brasil RIGeo · 2011 · página 135 Oak Ridge Reservation Enviromental Restoration Program, Dispon",
+    "Avaliação do risco geológico à exposição de elementos químicos à saúde ambiental, na região de Araçuaí-Itinga, Minas Gerais, Brasil RIGeo · 2011 · página 31 … nordeste do estado de Minas Gerais, municípios de Araçuaí e I",
+    "Avaliação do risco geológico à exposição de elementos químicos à saúde ambiental, na região de Araçuaí-Itinga, Minas Gerais, Brasil RIGeo · 2011 · página 117 … present and discuss the results of a geological risk assessm"
+   ]
+  },
+  {
+   "id": 868,
+   "titulo": "Rochas piroclásticas ácidas, fanerozóicas do Médio-Jequitinhonha, nordeste de Minas Gerais",
+   "ano": "2008",
+   "temas": [
+    "B",
+    "F",
+    "G"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/868",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_868_rochas-piroclasticas-acidas-fanerozoicas-do-medio-jequi.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/43646969-8569-4c94-a2cf-5cf499ddfac6/content",
+    "bytes": 64528,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Rochas piroclásticas ácidas, fanerozóicas do Médio-Jequitinhonha, nordeste de Minas Gerais RIGeo · 2008 · página 1 ROCHAS PIROCLÁSTICAS ÁCIDAS, FANEROZÓICAS DO MÉDIO-JEQUITINHONHA, NORDESTE DE MINAS GERAIS Frederico Ozan"
+   ]
+  },
+  {
+   "id": 976,
+   "titulo": "Geoquímica multiusos no Estado de Minas Gerais: a bacia do Rio Mucuri",
+   "ano": "2011",
+   "temas": [
+    "F"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/976",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_976_geoquimica-multiusos-no-estado-de-minas-gerais-a-bacia-.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/b5a4b690-2d47-41e1-9944-ce48cae5da0c/content",
+    "bytes": 862747,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Geoquímica multiusos no Estado de Minas Gerais: a bacia do Rio Mucuri RIGeo · 2011 · página 1 385 GEOQUÍMICA MULTIUSOS NO ESTADO DE MINAS GERAIS A Bacia do Rio Mucuri Anselmo de Carvalho PEDERASSI1, Eduardo Paim VIGLIO¹,"
+   ]
+  },
+  {
+   "id": 977,
+   "titulo": "Geoquímica multiusos no Estado de Minas Gerais: as bacias dos rios Jequitaí e Verde Grande",
+   "ano": "2011",
+   "temas": [
+    "F"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/977",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_977_geoquimica-multiusos-no-estado-de-minas-gerais-as-bacia.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/d01e3537-1406-4fab-b30c-28d6fb13d37e/content",
+    "bytes": 991079,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Geoquímica multiusos no Estado de Minas Gerais: as bacias dos rios Jequitaí e Verde Grande RIGeo · 2011 · página 1 397 GEOQUÍMICA MULTIUSOS NO ESTADO DE MINAS GERAIS As Bacias dos Rios Jequitaí e Verde Grande Eduardo Pai"
+   ]
+  },
+  {
+   "id": 978,
+   "titulo": "Geoquímica multiusos no Estado de Minas Gerais: a bacia do Rio Abaeté",
+   "ano": "2011",
+   "temas": [
+    "F"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/978",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_978_geoquimica-multiusos-no-estado-de-minas-gerais-a-bacia-.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/f4d4c547-0561-44a9-a6ad-6d8eee2eb950/content",
+    "bytes": 944614,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Geoquímica multiusos no Estado de Minas Gerais: a bacia do Rio Abaeté RIGeo · 2011 · página 1 401 GEOQUÍMICA MULTIUSOS NO ESTADO DE MINAS GERAIS - A Bacia do rio Abaeté Eduardo Paim VIGLIO¹, Anselmo de Carvalho PEDERASSI"
+   ]
+  },
+  {
+   "id": 979,
+   "titulo": "Geoquímica multiusos no Estado de Minas Gerais: as bacias dos rios Urucuia e Carinhanha",
+   "ano": "2011",
+   "temas": [
+    "F"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/979",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_979_geoquimica-multiusos-no-estado-de-minas-gerais-as-bacia.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/62b354a2-16ca-4d57-b0b0-9b46c4b06698/content",
+    "bytes": 848727,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Geoquímica multiusos no Estado de Minas Gerais: as bacias dos rios Urucuia e Carinhanha RIGeo · 2011 · página 1 405 GEOQUÍMICA MULTIUSOS NO ESTADO DE MINAS GERAIS As Bacias dos rios Urucuia e Carinhanha Eduardo Paim VIGL"
+   ]
+  },
+  {
+   "id": 1044,
+   "titulo": "Risco geológico de alumínio à saúde ambiental na região de Araçuaí e Itinga, Minas Gerais, Brasil",
+   "ano": "2011",
+   "temas": [
+    "C",
+    "G",
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/1044",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_1044_risco-geologico-de-aluminio-a-saude-ambiental-na-regiao.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/bf5c83b8-a662-474d-8a45-c700459545ad/content",
+    "bytes": 1258577,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Risco geológico de alumínio à saúde ambiental na região de Araçuaí e Itinga, Minas Gerais, Brasil RIGeo · 2011 · página 1 Abstract The geological and geochemical studies of the area and toxicological results in three ris",
+    "Risco geológico de alumínio à saúde ambiental na região de Araçuaí e Itinga, Minas Gerais, Brasil RIGeo · 2011 · página 1 1931 RISCO GEOLÓGICO DE ALUMÍNIO À SAÚDE AMBIENTAL NA REGIÃO DE ARAÇUAÍ E ITINGA, MINAS GERAIS, BR"
+   ]
+  },
+  {
+   "id": 1127,
+   "titulo": "Bacias hidrogeológicas representativas: projeto águas do norte de Minas Gerais",
+   "ano": "2012",
+   "temas": [
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/1127",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_1127_bacias-hidrogeologicas-representativas-projeto-aguas-do.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/a6a6d762-bf35-4a12-8d53-b3a5e314df49/content",
+    "bytes": 801145,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Bacias hidrogeológicas representativas: projeto águas do norte de Minas Gerais RIGeo · 2012 · página 2 Introdução A política de recursos hídricos do estado de Minas Gerais visa estruturar e subsidiar tecnicamente os Comi"
+   ]
+  },
+  {
+   "id": 1160,
+   "titulo": "Caracterização do arco magmático do orógeno Araçuaí entre Frei Inocêncio e Itambacuri, MG",
+   "ano": "2014",
+   "temas": [
+    "E",
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/1160",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_1160_caracterizacao-do-arco-magmatico-do-orogeno-aracuai-ent.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/10bfa3ec-2299-49d4-9c44-6bf17da0f2b2/content",
+    "bytes": 14201204,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Caracterização do arco magmático do orógeno Araçuaí entre Frei Inocêncio e Itambacuri, MG RIGeo · 2014 · página 16 … 18º00’S e 18º30’S, englobando parte dos municípios de Itambacuri, Campanário, Jampruca e Frei Inocêncio",
+    "Caracterização do arco magmático do orógeno Araçuaí entre Frei Inocêncio e Itambacuri, MG RIGeo · 2014 · página 25 FA, traços estruturais da Faixa de Dobramentos Araçuaí (sensu Almeida 1977); ZI, zona de interferência do",
+    "Caracterização do arco magmático do orógeno Araçuaí entre Frei Inocêncio e Itambacuri, MG RIGeo · 2014 · página 29 Congolesa, funcionaram como mecanismos para dissipação de tensões e acomodação de deformação no interior"
+   ]
+  },
+  {
+   "id": 1170,
+   "titulo": "Caracterização de metadiamictitos ferruginosos da formação Nova Aurora (grupo Macaúbas, Orógeno Araçuaí) a oeste de Salinas, MG",
+   "ano": "2014",
+   "temas": [
+    "E",
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/1170",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_1170_caracterizacao-de-metadiamictitos-ferruginosos-da-forma.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/4330e6fb-8edf-49b6-ba26-c2abed6ee2fe/content",
+    "bytes": 11241192,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Caracterização de metadiamictitos ferruginosos da formação Nova Aurora (grupo Macaúbas, Orógeno Araçuaí) a oeste de Salinas, MG RIGeo · 2014 · página 23 Os ETR e elementos refratários são determinados por ICP-MS, seguido",
+    "Caracterização de metadiamictitos ferruginosos da formação Nova Aurora (grupo Macaúbas, Orógeno Araçuaí) a oeste de Salinas, MG RIGeo · 2014 · página 26 As rochas do Grupo Macaúbas encontram-se no domínio externo do Oróg"
+   ]
+  },
+  {
+   "id": 5290,
+   "titulo": "Projeto reconhecimento radiogeológico AN-39 Paula Candido - MG",
+   "ano": "1974",
+   "temas": [
+    "A"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/5290",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_5290_projeto-reconhecimento-radiogeologico-an-39-paula-candi.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/a86ea2fa-960a-4107-83d1-f8bbb331779d/content",
+    "bytes": 20776645,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto reconhecimento radiogeológico AN-39 Paula Candido - MG RIGeo · 1974 · página 7 … medidas de direção são relacionadas ao norte magnético. 1.7 - Trabalhos anteriores 1.7.1 - Radiométricos O trabalho de radiometria"
+   ]
+  },
+  {
+   "id": 5473,
+   "titulo": "Relatório Preliminar de Prospecção Geoquímica nos Estados de Minas Gerais e Espírito Santo",
+   "ano": "1974",
+   "temas": [
+    "A",
+    "F"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/5473",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/f7483a2c-d34f-4a4c-a3ca-69424162003c/content",
+    "bytes": 107751678,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Relatório Preliminar de Prospecção Geoquímica nos Estados de Minas Gerais e Espírito Santo RIGeo · 1974 · página 69 os va lores elevados distribuem-se normalmente tal como os mais baixos, porém nãosãobem representados. S",
+    "Relatório Preliminar de Prospecção Geoquímica nos Estados de Minas Gerais e Espírito Santo RIGeo · 1974 · página 1 DEPARTAMENTO NACIONAL DA PRODUÇÃO MINERAL CONVÊNIO GEOFISICA BRASIL/ALEMANHA \" Hi 2006 COORDENADOR GERAL:",
+    "Relatório Preliminar de Prospecção Geoquímica nos Estados de Minas Gerais e Espírito Santo RIGeo · 1974 · página 8 Ao todo coletaram-se cerca de 10.000 amostras en- sedimentos de corrente e solo, realizando-se cerca de 6"
+   ]
+  },
+  {
+   "id": 6661,
+   "titulo": "Projeto sul da Bahia. Síntese dos reconhecimentos geológicos até 1972",
+   "ano": "1972",
+   "temas": [
+    "D"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/6661",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/8f06af62-7b3d-4bde-b30e-d61453cd3f4b/content",
+    "bytes": 73204332,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Projeto sul da Bahia. Síntese dos reconhecimentos geológicos até 1972 RIGeo · 1972 · página 65 7.1.1 Escala de Reconhecimento Os trabalhos nessa escala são apresentados em três bases, sendo uma para a escala 1:200.000, o"
+   ]
+  },
+  {
+   "id": 6669,
+   "titulo": "Projeto relatório de prospecção geofísica experimental área de Tijuco, município de Januária, Minas Gerais",
+   "ano": "1974",
+   "temas": [
+    "A",
+    "F"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/6669",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/26ffdc39-293b-45f5-8f1d-b15c1b60ec56/content",
+    "bytes": 103960400,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Projeto relatório de prospecção geofísica experimental área de Tijuco, município de Januária, Minas Gerais RIGeo · 1974 · página 12 Entre os elementos dosados (Pb, Zn, Cu, CO, Ni, Ii e Ag), parece que teores de Pb, Zn e",
+    "Projeto relatório de prospecção geofísica experimental área de Tijuco, município de Januária, Minas Gerais RIGeo · 1974 · página 84 As frações menores que 80 mesh, proveni entes de sedimentos de corrente e até de córrego"
+   ]
+  },
+  {
+   "id": 6676,
+   "titulo": "Relatório de Reconhecimento Geológico - Geofísico, Janauba / Rio Pardo de Minas, Minas Gerais",
+   "ano": "1974",
+   "temas": [
+    "B",
+    "C"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/6676",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/ccaddfb0-b77a-450a-9c12-7c01bbabe972/content",
+    "bytes": 29640254,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Relatório de Reconhecimento Geológico - Geofísico, Janauba / Rio Pardo de Minas, Minas Gerais RIGeo · 1974 · página 18 Renger (1973), trata-se possivelmente, no caso, de uma sequência de ro- chas do fácies Macaúbas, que",
+    "Relatório de Reconhecimento Geológico - Geofísico, Janauba / Rio Pardo de Minas, Minas Gerais RIGeo · 1974 · página 8 Outras anomalias, de formas alongadas, foran também obje to de verificações geológicas visando esclare"
+   ]
+  },
+  {
+   "id": 7077,
+   "titulo": "Projeto Aerogeofísico Camaqua. Área de Teste Poços de Caldas, São Paulo- Minas Gerais",
+   "ano": "1973",
+   "temas": [
+    "A"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/7077",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_7077_projeto-aerogeofisico-camaqua-area-de-teste-pocos-de-ca.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/9c8a6429-c049-4445-9c9c-a75e9f7f4301/content",
+    "bytes": 1101857,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto Aerogeofísico Camaqua. Área de Teste Poços de Caldas, São Paulo- Minas Gerais RIGeo · 1973 · página 1 … Levantamentos Fotogeológicos DESCRIÇÃO DA GEOLOGIA • Geologia Regional Estratigrafia Ldade Estrutura Recurso"
+   ]
+  },
+  {
+   "id": 7156,
+   "titulo": "Relatório de Prospecção Geoquímica de Detalhe e Sondagens (Anomalia F) Coromandel, Minas Gerais",
+   "ano": "1975",
+   "temas": [
+    "F"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/7156",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_7156_relatorio-de-prospeccao-geoquimica-de-detalhe-e-sondage.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/483c357c-a45e-435d-91a4-6590263f4c38/content",
+    "bytes": 1668225,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Relatório de Prospecção Geoquímica de Detalhe e Sondagens (Anomalia F) Coromandel, Minas Gerais RIGeo · 1975 · página 1 ._.. --e. DEPARTAMENTO. NACIONAL DA PRODUÇÃO MINERAL CONVÊNIO GEOFISICA BRASIL-ALEMANHA COORDENADOR"
+   ]
+  },
+  {
+   "id": 7164,
+   "titulo": "Relatório de orientação aos trabalhos de reconhecimento geoquímico nos estados de Minas Gerais e Espírito Santo",
+   "ano": "1975",
+   "temas": [
+    "A",
+    "C"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/7164",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/9fef80f8-4dc2-41e4-8304-c359fca018bf/content",
+    "bytes": 73883767,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Relatório de orientação aos trabalhos de reconhecimento geoquímico nos estados de Minas Gerais e Espírito Santo RIGeo · 1975 · página 12 A zona III situa-se na parte centro-oeste do Estado de Minas Gerais, e compreende o"
+   ]
+  },
+  {
+   "id": 7226,
+   "titulo": "Relatório de reconhecimento geológico-geofísico, Jequitinhonha Norte, Minas Gerais",
+   "ano": "1975",
+   "temas": [
+    "B",
+    "C",
+    "F"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/7226",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/b857a1fb-0fe6-4cc4-b87e-28105c84fef9/content",
+    "bytes": 83857365,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Relatório de reconhecimento geológico-geofísico, Jequitinhonha Norte, Minas Gerais RIGeo · 1975 · página 9 0210,0343 CPRM A região do Jequitinhonha é economicamente promissora, em vista de seus pegnatitos mineralizados,",
+    "Relatório de reconhecimento geológico-geofísico, Jequitinhonha Norte, Minas Gerais RIGeo · 1975 · página 50 Terrestre (Anexo 4.3-2) ANOMALIA (2) O perfil 1 foi medido saindo da estrada de Coronel Murta-Virgem da Iapa par",
+    "Relatório de reconhecimento geológico-geofísico, Jequitinhonha Norte, Minas Gerais RIGeo · 1975 · página 7 … - Perfil magnético 4.9-8 - Perfil magnético •d. Med CPRM Resumo A partir da interpretação de 10 mapas aeromagné"
+   ]
+  },
+  {
+   "id": 7227,
+   "titulo": "Relatório de reconhecimento geológico-geofísico, região sul do Jequitinhonha, nordeste de Minas Gerais",
+   "ano": "1975",
+   "temas": [
+    "A",
+    "B",
+    "C",
+    "F",
+    "G",
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/7227",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/837f465b-2d5b-4df6-b0e6-a98e89884667/content",
+    "bytes": 359388981,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Relatório de reconhecimento geológico-geofísico, região sul do Jequitinhonha, nordeste de Minas Gerais RIGeo · 1975 · página 71 Em seguida deveriam ser aplicados métodos elétricos e ra- diométricos com auxílio do helicóp",
+    "Relatório de reconhecimento geológico-geofísico, região sul do Jequitinhonha, nordeste de Minas Gerais RIGeo · 1975 · página 17 9 catuji (Teofilo DOtoni 430 47° GOIAS Brasilia, 1 5 Machacalis Umburai Carlos Chagas .. 41°",
+    "Relatório de reconhecimento geológico-geofísico, região sul do Jequitinhonha, nordeste de Minas Gerais RIGeo · 1975 · página 117 … GEOLOGICA - GEOFISICA ALEMA EM BELO HORIZONT MAPA DE INTENSIDADE MAGNÉTICA TOTAL Perfis d"
+   ]
+  },
+  {
+   "id": 7238,
+   "titulo": "Relatório sobre interpretação de mapas de isoanomalias magnéticas nas região noroeste de Minas Gerais",
+   "ano": "1975",
+   "temas": [
+    "A"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/7238",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/82f0b8c1-6a3c-435e-a169-a981baa783e5/content",
+    "bytes": 70748590,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Relatório sobre interpretação de mapas de isoanomalias magnéticas nas região noroeste de Minas Gerais RIGeo · 1975 · página 7 A área é julgada interessante para a realização de pes - Mod. 002 NE 7530.0210.0343 CPRM - qui"
+   ]
+  },
+  {
+   "id": 7524,
+   "titulo": "Projeto hidrogeologia do norte de Minas Gerais e Sul da Bahia: relatório final, folha Rio Doce - NO",
+   "ano": "1977",
+   "temas": [
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/7524",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_7524_projeto-hidrogeologia-do-norte-de-minas-gerais-e-sul-da.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/dc67475f-2bd1-4308-8dad-b8db9f731896/content",
+    "bytes": 12676850,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto hidrogeologia do norte de Minas Gerais e Sul da Bahia: relatório final, folha Rio Doce - NO RIGeo · 1977 · página 81 … não muito bem elucidados. Inicia-se ao sul, na sua parte mais ocidental, nas proximidades de"
+   ]
+  },
+  {
+   "id": 7584,
+   "titulo": "Interpretação do levantamento aerogeofísico sistemático de Minas Gerais e Espírito Santo: fundamentos teóricos",
+   "ano": "1975",
+   "temas": [
+    "A"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/7584",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_7584_interpretacao-do-levantamento-aerogeofisico-sistematico.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/43fb2032-1ce5-470b-8ac9-8550b15139a1/content",
+    "bytes": 19260889,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Interpretação do levantamento aerogeofísico sistemático de Minas Gerais e Espírito Santo: fundamentos teóricos RIGeo · 1975 · página 1 … BRASIL - ALEMANHA Superintendente de Execução Chefe da Missão Alema ROBERTO BREVES"
+   ]
+  },
+  {
+   "id": 8079,
+   "titulo": "Projeto Furnas Levantamento Aerogamaespectrométrico, Estado de Minas Gerais",
+   "ano": "1975",
+   "temas": [
+    "A"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/8079",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_8079_projeto-furnas-levantamento-aerogamaespectrometrico-est.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/cbc01fbb-43ab-4b76-9728-65519a8d2943/content",
+    "bytes": 4127819,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto Furnas Levantamento Aerogamaespectrométrico, Estado de Minas Gerais RIGeo · 1975 · página 7 al a a3 MAPAS DE LOCALIZAÇÃO DE PERFIS RADIOMÉTRICOS : 118 Folhas na escala de 1:50.000 , (15' x 15') REGISTROS ANALÓGIC"
+   ]
+  },
+  {
+   "id": 8414,
+   "titulo": "Itabirinha de Mantena: folha SE.24-Y-A-V",
+   "ano": "1997",
+   "temas": [
+    "D"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/8414",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/75c8244b-0f49-4918-a5d5-061d68bb608e/content",
+    "bytes": 30644546,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Itabirinha de Mantena: folha SE.24-Y-A-V RIGeo · 1997 · página 64 … Leste de Minas Gerais Relatórios Técnicos por Quadrícula: Volume 01: Folha Novo Cruzeiro - SE.24-V-C-I Volume 02: Folha Padre Paraíso - SE.24-V-C-II Vol"
+   ]
+  },
+  {
+   "id": 8423,
+   "titulo": "Padre Paraíso Folha, SE.24-V-C-II",
+   "ano": "1997",
+   "temas": [
+    "D"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/8423",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/f7771b7e-82ef-4037-bda8-4474ac53606e/content",
+    "bytes": 24493155,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Padre Paraíso Folha, SE.24-V-C-II RIGeo · 1997 · página 5 … geológico integrado - escala 1: 500.000/Inciui mapa geológico 1:250.000 - Folha Almenara. 1. Geologia 2.Recursos Minerais. 3. Padre Paraíso-MG Mapa. I-Titulo II",
+    "Padre Paraíso Folha, SE.24-V-C-II RIGeo · 1997 · página 12 … Volumes Publicados do projeto Leste Disponíveis para Consulta e Aquisição por Compra.. 5 lustrações Fotográficas ANEXO Carta Geológica da Folha Padre Paraíso X"
+   ]
+  },
+  {
+   "id": 8427,
+   "titulo": "Marilac: folha SE.23-Z-B-IV",
+   "ano": "1997",
+   "temas": [
+    "D"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/8427",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/99498847-f85a-4c93-90d7-08e0f9a5d33b/content",
+    "bytes": 28352789,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Marilac: folha SE.23-Z-B-IV RIGeo · 1997 · página 65 … Leste de Minas Gerais Relatórios Técnicos por Quadrícula: Volume 01: Folha Novo Cruzeiro - SE.24-V-C-l Volume 02: Folha Padre Paraíso - SE.24-V-C-II Volume 03: Folha"
+   ]
+  },
+  {
+   "id": 8650,
+   "titulo": "Projeto Leste. Província Pegmatítica Oriental. Mapeamento geológico e cadastramento de recursos minerais",
+   "ano": "2001",
+   "temas": [
+    "D"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/8650",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_8650_projeto-leste-provincia-pegmatitica-oriental-mapeamento.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/7e0959b2-e95e-42ae-8c86-c05eb2cf5cef/content",
+    "bytes": 4613448,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto Leste. Província Pegmatítica Oriental. Mapeamento geológico e cadastramento de recursos minerais RIGeo · 2001 · página 9 … concluída até 1998, contou com a participação da Superintendência Regional de Salvador na"
+   ]
+  },
+  {
+   "id": 9269,
+   "titulo": "Relatório sobre um Levantamento Aerogeofísico: Aeromagnetismo e Aerorradiometria, Minas Gerais, Espírito Santo",
+   "ano": "1973",
+   "temas": [
+    "A"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/9269",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/e7888572-0ae6-44f6-9cb4-b5e8f6f7ac48/content",
+    "bytes": 33403845,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Relatório sobre um Levantamento Aerogeofísico: Aeromagnetismo e Aerorradiometria, Minas Gerais, Espírito Santo RIGeo · 1973 · página 37 EM m DAS FOLHAS ADJACENTES 750 825U 1 16°00° 42°00° FÔLHA SD-23-Z AUTOR Dr. D. C. BO"
+   ]
+  },
+  {
+   "id": 11133,
+   "titulo": "Projeto Jequitinhonha: estados de Minas Gerais e Bahia: geologia e recursos minerais das folhas Comercinho, Jequitinhonha, Almenara, Itaobim, Joaíma e Rio do Prado",
+   "ano": "2010",
+   "temas": [
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/11133",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/a9134d33-c86e-467e-b5e6-1247e3ee9131/content",
+    "bytes": 234283455,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Projeto Jequitinhonha: estados de Minas Gerais e Bahia: geologia e recursos minerais das folhas Comercinho, Jequitinhonha, Almenara, Itaobim, Joaíma e Rio do Prado RIGeo · 2010 · página 23 … Comercinho, Felizburgo, Front",
+    "Projeto Jequitinhonha: estados de Minas Gerais e Bahia: geologia e recursos minerais das folhas Comercinho, Jequitinhonha, Almenara, Itaobim, Joaíma e Rio do Prado RIGeo · 2010 · página 267 … base de 2005), mais de 99% d",
+    "Projeto Jequitinhonha: estados de Minas Gerais e Bahia: geologia e recursos minerais das folhas Comercinho, Jequitinhonha, Almenara, Itaobim, Joaíma e Rio do Prado RIGeo · 2010 · página 21 ..... 315 10 — REFERÊNCIAS BIBL"
+   ]
+  },
+  {
+   "id": 11693,
+   "titulo": "Interpretação geológica e geofísica da área de influência da usina hidrelétrica de Irapé, MG",
+   "ano": "2014",
+   "temas": [
+    "A",
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/11693",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_11693_interpretacao-geologica-e-geofisica-da-area-de-influenc.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/6b3a76ad-9b4f-4923-81ac-f1dfb46b1348/content",
+    "bytes": 12812747,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Interpretação geológica e geofísica da área de influência da usina hidrelétrica de Irapé, MG RIGeo · 2014 · página 35 16S_435 e 17S_435. Figura 14: Comparação entre imagens utilizadas na base de dados. O retângulo amarel",
+    "Interpretação geológica e geofísica da área de influência da usina hidrelétrica de Irapé, MG RIGeo · 2014 · página 12 Considerações finais .............................................................................. 69"
+   ]
+  },
+  {
+   "id": 14015,
+   "titulo": "Atividade mineral em Minas Gerais",
+   "ano": "1982",
+   "temas": [
+    "B",
+    "G"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/14015",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_14015_atividade-mineral-em-minas-gerais.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/9a98674f-33fa-4b8d-a48f-0131498fcf8c/content",
+    "bytes": 3358845,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Atividade mineral em Minas Gerais RIGeo · 1982 · página 19 UBÁ - A Minèração Caulinita Itda vem explorando caulim que ocorre nos pegmatitos e que em 1980 gerou Mod. 002 NE 7530 9210. 0343 CPRM Cr$ 9,1 milhões de IUM, cab",
+    "Atividade mineral em Minas Gerais RIGeo · 1982 · página 3 Mod. 002. CPRM S:UM A R _I O MINERAÇÃO EM MINAS GERAIS ZONA METALÚRGICA •ZONA DA MATA ZONA SUL DE MINAS • ZONA DO TRIÂNGULO E ALTO PARANAÍBA ZONA DO AITO SÃO FRAN",
+    "Atividade mineral em Minas Gerais RIGeo · 1982 · página 21 Fora esses destaques, o que se tem são pequenas jazidas de felaspatos e cristais de rocha, como acontece nos municípios de Botelhos, Nova Rezende, Ouro Fino etc."
+   ]
+  },
+  {
+   "id": 14704,
+   "titulo": "Mapa Geodiversidade do Estado de Minas Gerais",
+   "ano": "2010",
+   "temas": [
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/14704",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/aaf557ae-ebdc-4345-b181-e60f57665393/content",
+    "bytes": 35359239,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Mapa Geodiversidade do Estado de Minas Gerais RIGeo · 2010 · página 23 Orógeno Araçuaí/Ribeira A Faixa de Dobramentos Araçuaí (ALMEIDA, 1977), estabelecida durante a Orogênese Brasiliana, constitui o limite oriental do C"
+   ]
+  },
+  {
+   "id": 16128,
+   "titulo": "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estados de Minas Gerais e Bahia: diagnóstico do município de Caraí - MG",
+   "ano": "2005",
+   "temas": [
+    "A",
+    "B",
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/16128",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_16128_projeto-cadastro-de-fontes-de-abastecimento-por-aguas-s.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/16743d3a-ec9b-454a-b74b-fd8152788fd7/content",
+    "bytes": 2061664,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estados de Minas Gerais e Bahia: diagnóstico do município de Caraí - MG RIGeo · 2005 · página 9 … do município é de 1.244 km² e está contida nas folhas"
+   ]
+  },
+  {
+   "id": 16132,
+   "titulo": "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estados de Minas Gerais e Bahia: diagnóstico do município de Bocaiúva - MG",
+   "ano": "2005",
+   "temas": [
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/16132",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_16132_projeto-cadastro-de-fontes-de-abastecimento-por-aguas-s.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/897e4078-43c6-43d7-9826-4a70540417ec/content",
+    "bytes": 9105175,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estados de Minas Gerais e Bahia: diagnóstico do município de Bocaiúva - MG RIGeo · 2005 · página 21 O Complexo Ortognáissico (granito-gnáissico) apresen"
+   ]
+  },
+  {
+   "id": 16147,
+   "titulo": "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Couto de Magalhães de Minas - MG",
+   "ano": "2005",
+   "temas": [
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/16147",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_16147_projeto-cadastro-de-fontes-de-abastecimento-por-aguas-s.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/ca690ea1-ea25-4a55-bd5a-d1f54600ef51/content",
+    "bytes": 204546,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Couto de Magalhães de Minas - MG RIGeo · 2005 · página 13 Esses domínios hidrogeológicos pod"
+   ]
+  },
+  {
+   "id": 16218,
+   "titulo": "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Felício dos Santos - MG",
+   "ano": "2005",
+   "temas": [
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/16218",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_16218_projeto-cadastro-de-fontes-de-abastecimento-por-aguas-s.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/1b9c6e5b-a530-445a-8c55-f21865ef1c88/content",
+    "bytes": 4742583,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Felício dos Santos - MG RIGeo · 2005 · página 17 Quaternário. • Em termos de domínio hidroge"
+   ]
+  },
+  {
+   "id": 16227,
+   "titulo": "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Guaraciama - MG",
+   "ano": "2005",
+   "temas": [
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/16227",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_16227_projeto-cadastro-de-fontes-de-abastecimento-por-aguas-s.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/0450fa7b-895a-444c-a649-d9c186f2b09d/content",
+    "bytes": 6094898,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Guaraciama - MG RIGeo · 2005 · página 18 • As Coberturas detrito lateríticas do Cenozóicas o"
+   ]
+  },
+  {
+   "id": 16231,
+   "titulo": "Projeto cadastro de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Itinga - MG",
+   "ano": "2005",
+   "temas": [
+    "G"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/16231",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_16231_projeto-cadastro-de-abastecimento-por-aguas-subterranea.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/4e1ea8be-dc99-40ef-9e3d-28f7e4590d7b/content",
+    "bytes": 2126733,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto cadastro de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Itinga - MG RIGeo · 2005 · página 10 (SE-23-X-B-IV), editadas pelo IBGE. 4.2 Aspectos Socioeconômicos"
+   ]
+  },
+  {
+   "id": 16235,
+   "titulo": "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Itapebi - BA",
+   "ano": "2005",
+   "temas": [
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/16235",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_16235_projeto-cadastro-de-fontes-de-abastecimento-por-aguas-s.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/c99c50e2-6675-4f3a-a03c-8050b0ea9e6d/content",
+    "bytes": 1867494,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Itapebi - BA RIGeo · 2005 · página 13 A xistosidade e clivagem de crenulação são planos part"
+   ]
+  },
+  {
+   "id": 16274,
+   "titulo": "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Jacinto - MG",
+   "ano": "2005",
+   "temas": [
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/16274",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_16274_projeto-cadastro-de-fontes-de-abastecimento-por-aguas-s.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/3000a41a-dba5-4dab-9ab0-4553af45c8f2/content",
+    "bytes": 1905095,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Jacinto - MG RIGeo · 2005 · página 17 CONCLUSÕES E RECOMENDAÇÕES A análise dos dados referen",
+    "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Jacinto - MG RIGeo · 2005 · página 11 O potencial hidrogeológico é dependente da densidade e"
+   ]
+  },
+  {
+   "id": 16383,
+   "titulo": "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Padre Carvalho - MG",
+   "ano": "2005",
+   "temas": [
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/16383",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_16383_projeto-cadastro-de-fontes-de-abastecimento-por-aguas-s.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/e01ee5e8-f38a-4235-a3bf-fd03ebbbe9b5/content",
+    "bytes": 4774005,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto cadastro de fontes de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Padre Carvalho - MG RIGeo · 2005 · página 16 níveis estáticos variando de 2,67 a 19,00m, méd"
+   ]
+  },
+  {
+   "id": 16384,
+   "titulo": "Projeto cadastro de fontes de de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Padre Paraíso - MG",
+   "ano": "2005",
+   "temas": [
+    "A",
+    "B",
+    "D",
+    "E",
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/16384",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_16384_projeto-cadastro-de-fontes-de-de-abastecimento-por-agua.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/e8cc2b31-5bf4-4621-b090-178c81f68596/content",
+    "bytes": 1875096,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto cadastro de fontes de de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Padre Paraíso - MG RIGeo · 2005 · página 4 … Projeto Cadastro de Abastecimento por Águas",
+    "Projeto cadastro de fontes de de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Padre Paraíso - MG RIGeo · 2005 · página 9 … abrangência do projeto. MG BA PI CE ES RN PE",
+    "Projeto cadastro de fontes de de abastecimento por águas subterrâneas, estado de Minas Gerais e Bahia: diagnóstico do município de Padre Paraíso - MG RIGeo · 2005 · página 9 … disponíveis em meio digital, através de um C"
+   ]
+  },
+  {
+   "id": 16735,
+   "titulo": "Geodiversidade do estado de Minas Gerais",
+   "ano": "2010",
+   "temas": [
+    "E",
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/16735",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/c0673d83-58ae-496e-9e14-34523ad3111a/content",
+    "bytes": 28604680,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Geodiversidade do estado de Minas Gerais RIGeo · 2010 · página 24 • Formação Salinas Essa formação é constituída por metarenitos, metapelitos e metaconglomerados, ocorrendo no leste do estado. Deposita-se em discordância",
+    "Geodiversidade do estado de Minas Gerais RIGeo · 2010 · página 37 Boletim do Núcleo Minas Gerais/Sociedade Brasileira de Geologia, n. 14, p. 29-31, 1997. PACIULLO, F. V. P.; RIBEIRO, A.; ANDREIS, R. R.; TROUW, R. A. J. T",
+    "Geodiversidade do estado de Minas Gerais RIGeo · 2010 · página 21 .............................................................. 25 Bacia do São Francisco ................................................................."
+   ]
+  },
+  {
+   "id": 16922,
+   "titulo": "Projeto cadastro de fontes de abastecimento por água subterrânea: estado de Minas Gerais e Bahia, diagnóstico do município de Araçuaí - MG",
+   "ano": "2005",
+   "temas": [
+    "C",
+    "E",
+    "G"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/16922",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_16922_projeto-cadastro-de-fontes-de-abastecimento-por-agua-su.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/d2a1374a-67e7-445d-8bc5-21b6f78e825e/content",
+    "bytes": 3086293,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto cadastro de fontes de abastecimento por água subterrânea: estado de Minas Gerais e Bahia, diagnóstico do município de Araçuaí - MG RIGeo · 2005 · página 9 Os dados coletados foram consistidos e repassados sistema"
+   ]
+  },
+  {
+   "id": 17285,
+   "titulo": "O alumínio nas bacias dos rios São Francisco e Doce no estado de Minas Gerais",
+   "ano": "2010",
+   "temas": [
+    "F"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/17285",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_17285_o-aluminio-nas-bacias-dos-rios-sao-francisco-e-doce-no-.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/7ae4d60f-cc36-4bf9-8ade-8f4deb8d57be/content",
+    "bytes": 127279,
+    "status": "baixado"
+   },
+   "trechos": [
+    "O alumínio nas bacias dos rios São Francisco e Doce no estado de Minas Gerais RIGeo · 2010 · página 1 O Alumínio nas Bacias dos rios São Francisco e Doce no Estado de Minas Gerais Eduardo Paim Viglio – Projeto Geoquímica"
+   ]
+  },
+  {
+   "id": 17451,
+   "titulo": "Avaliação do potencial do litio no Brasil: área do Médio Rio Jequitinhonha, nordeste de Minas Gerais",
+   "ano": "2016",
+   "temas": [
+    "A",
+    "B",
+    "C",
+    "E",
+    "F",
+    "G",
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/17451",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_17451_avaliacao-do-potencial-do-litio-no-brasil-area-do-medio.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/c27253c8-1e17-4e2e-bab0-8d51bfd1bc98/content",
+    "bytes": 9804202,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Avaliação do potencial do litio no Brasil: área do Médio Rio Jequitinhonha, nordeste de Minas Gerais RIGeo · 2016 · página 275 … !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !H !",
+    "Avaliação do potencial do litio no Brasil: área do Médio Rio Jequitinhonha, nordeste de Minas Gerais RIGeo · 2016 · página 26 Brandalise, Matos, Ribeiro (1980) e Pedrosa-Soares (1984), já citados, e Pedrosa-Soares, Corre",
+    "Avaliação do potencial do litio no Brasil: área do Médio Rio Jequitinhonha, nordeste de Minas Gerais RIGeo · 2016 · página 212 moscovita-biotita granito e granitos aluminosos, com sienogranitos deformados e miloníticos s"
+   ]
+  },
+  {
+   "id": 17674,
+   "titulo": "Geologia e recursos minerais da folha Pouso Alegre SF.23-Y-B-II, estado de Minas Gerais",
+   "ano": "2020",
+   "temas": [
+    "E"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/17674",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_17674_geologia-e-recursos-minerais-da-folha-pouso-alegre-sf-2.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/255e41e2-00d6-4eae-b3c8-2d4fc4f8a080/content",
+    "bytes": 4206723,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Geologia e recursos minerais da folha Pouso Alegre SF.23-Y-B-II, estado de Minas Gerais RIGeo · 2020 · página 29 Já idades entre 625 e 600 Ma, obtidas em bordas de grãos de zircão, foram relacionadas pelo autor ao metamo"
+   ]
+  },
+  {
+   "id": 17678,
+   "titulo": "Geologia e recursos minerais da folha Manhumirim SF.24-V-A-I: estados do Espírito Santo e Minas Gerais",
+   "ano": "2014",
+   "temas": [
+    "E",
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/17678",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_17678_geologia-e-recursos-minerais-da-folha-manhumirim-sf-24-.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/eea11bf4-eaaf-437f-889d-abb0c62b504a/content",
+    "bytes": 18655279,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Geologia e recursos minerais da folha Manhumirim SF.24-V-A-I: estados do Espírito Santo e Minas Gerais RIGeo · 2014 · página 9 … neoproterozóica (Grupo Andrelândia) está representada por paragnaisses migmatíticos interca",
+    "Geologia e recursos minerais da folha Manhumirim SF.24-V-A-I: estados do Espírito Santo e Minas Gerais RIGeo · 2014 · página 25 Esta fase foi responsável pela deformação e metamorfismo regionais. Neste estágio foram impr"
+   ]
+  },
+  {
+   "id": 17683,
+   "titulo": "Geologia e recursos minerais da folha Serra do Cabral SE.23-X-C-V: estado de Minas Gerais",
+   "ano": "2014",
+   "temas": [
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/17683",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_17683_geologia-e-recursos-minerais-da-folha-serra-do-cabral-s.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/19638542-9079-4647-a392-6c94e7155374/content",
+    "bytes": 3213503,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Geologia e recursos minerais da folha Serra do Cabral SE.23-X-C-V: estado de Minas Gerais RIGeo · 2014 · página 71 Nesta região, a atuação das frentes de deformação Brasiliana são bastante limitadas se comparadas a outro"
+   ]
+  },
+  {
+   "id": 17731,
+   "titulo": "Folha SD.22-X-D-II Mata Azul: carta geológica - escala 1:100.000",
+   "ano": "2013",
+   "temas": [
+    "D"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/17731",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_17731_folha-sd-22-x-d-ii-mata-azul-carta-geologica-escala-1-1.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/b6ac6a36-de2b-4c12-862c-db15cbfad91e/content",
+    "bytes": 4552111,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Folha SD.22-X-D-II Mata Azul: carta geológica - escala 1:100.000 RIGeo · 2013 · página 1 … anualmente. Convergência meridiana do centro da folha -30' 57'' PROJEÇÃO UNIVERSAL TRANSVERSA DE MERCATOR 2013 ESCALA 1:100.000 C"
+   ]
+  },
+  {
+   "id": 17768,
+   "titulo": "Geologia e recursos minerais da folha Jequeri, SF.23-X-B-II-4: estado de Minas Gerais",
+   "ano": "2014",
+   "temas": [
+    "C",
+    "G",
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/17768",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_17768_geologia-e-recursos-minerais-da-folha-jequeri-sf-23-x-b.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/98c84578-fe34-4fac-b7ba-f18af104dfa5/content",
+    "bytes": 3354097,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Geologia e recursos minerais da folha Jequeri, SF.23-X-B-II-4: estado de Minas Gerais RIGeo · 2014 · página 21 Quilometragem percorrida no mapeamento 5100 Amostras coletadas 255 Número e tipo de ocorrências minerais leva",
+    "Geologia e recursos minerais da folha Jequeri, SF.23-X-B-II-4: estado de Minas Gerais RIGeo · 2014 · página 22 Fora. A associação litológica, os dados geoquímicos e isotópicos e a distribuição geográfica de oeste para le"
+   ]
+  },
+  {
+   "id": 17798,
+   "titulo": "Geologia e recursos minerais da folha Viçosa, SF.23-X-B-V: estado de Minas Gerais",
+   "ano": "2014",
+   "temas": [
+    "D",
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/17798",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_17798_geologia-e-recursos-minerais-da-folha-vicosa-sf-23-x-b-.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/5109cacc-b4d3-465a-94c6-1c87c61b7b3a/content",
+    "bytes": 6527552,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Geologia e recursos minerais da folha Viçosa, SF.23-X-B-V: estado de Minas Gerais RIGeo · 2014 · página 1 cratônicas PM C Ma Cr B NV T Mo Ct SC MC A MG V Je Folhas 1:100.000 mapeadas pela UFMG em contratos com a CPRM: A,",
+    "Geologia e recursos minerais da folha Viçosa, SF.23-X-B-V: estado de Minas Gerais RIGeo · 2014 · página 67 A coexistência de silimanita prismática e feldspato potássico, implica em condições de metamorfismo barroviano de",
+    "Geologia e recursos minerais da folha Viçosa, SF.23-X-B-V: estado de Minas Gerais RIGeo · 2014 · página 70 Anais da Academia Brasileira de Ciências, Rio de Janeiro, v.76, n. 4, p 771-790, dez. 2004. ______. O grupo Dom S"
+   ]
+  },
+  {
+   "id": 18058,
+   "titulo": "Atlas geoquímico da bacia do rio Doce: Minas Gerais e Espírito Santo",
+   "ano": "2016",
+   "temas": [
+    "C"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/18058",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/caca6bad-6c17-42a2-9280-818d8c1eda9b/content",
+    "bytes": 404351070,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Atlas geoquímico da bacia do rio Doce: Minas Gerais e Espírito Santo RIGeo · 2016 · página 46 … elemento. La - Lantânio O lantânio é um metal de cor branco-prateada, maleável, sendo um dos mais reativos do grupo dos elem"
+   ]
+  },
+  {
+   "id": 18279,
+   "titulo": "Geologia e recursos minerais da folha Montes Claros, SE.23-X-A-VI: estado de Minas Gerais",
+   "ano": "2014",
+   "temas": [
+    "D"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/18279",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_18279_geologia-e-recursos-minerais-da-folha-montes-claros-se-.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/a1f4160e-bd8f-4762-ad25-bce95122a0a1/content",
+    "bytes": 4690044,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Geologia e recursos minerais da folha Montes Claros, SE.23-X-A-VI: estado de Minas Gerais RIGeo · 2014 · página 1 … DICART, da CPRM, para atender ao mapeamento temático do Serviço Geológico do Brasil - CPRM PROGRAMA GEOL"
+   ]
+  },
+  {
+   "id": 19245,
+   "titulo": "Delimitação de áreas em alto e muito alto risco a movimentos de massa, enchente e inundação: Padre Paraíso, MG",
+   "ano": "2014",
+   "temas": [
+    "A",
+    "B",
+    "E",
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/19245",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": null,
+    "bytes": null,
+    "status": "sem_pdf"
+   },
+   "trechos": [
+    "Delimitação de áreas em alto e muito alto risco a movimentos de massa, enchente e inundação: Padre Paraíso, MG RIGeo · 2014 · página 1 … Gestão Territorial – DEGET Delimitação de áreas em alto e muito alto risco a movime",
+    "Delimitação de áreas em alto e muito alto risco a movimentos de massa, enchente e inundação: Padre Paraíso, MG RIGeo · 2014 · página 2 … Gestão Territorial – DEGET Delimitação de áreas em alto e muito alto risco a movime",
+    "Delimitação de áreas em alto e muito alto risco a movimentos de massa, enchente e inundação: Padre Paraíso, MG RIGeo · 2014 · página 1 EQUIPE TÉCNICA Natália Dias Lopes (SUREG-BH) Rafael Silva Ribeiro (SUREG-BH) 1 5 4 3"
+   ]
+  },
+  {
+   "id": 20939,
+   "titulo": "Atlas geoquímico da bacia do Rio São Francisco: Minas Gerais",
+   "ano": "2018",
+   "temas": [
+    "C",
+    "F"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/20939",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/f18180ff-b793-4b97-9918-5054ae051f1f/content",
+    "bytes": 36873328,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Atlas geoquímico da bacia do Rio São Francisco: Minas Gerais RIGeo · 2018 · página 216 … um metal de transição pertencente à série dos Lantanídeos (La, Ce, Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb e Lu) ou elementos de",
+    "Atlas geoquímico da bacia do Rio São Francisco: Minas Gerais RIGeo · 2018 · página 236 … nas amostras de água. Y – Ítrio O ítrio, embora não seja um lantanídeo, é considerado por vários autores como um dos ETR (elementos",
+    "Atlas geoquímico da bacia do Rio São Francisco: Minas Gerais RIGeo · 2018 · página 239 Vale do Ribeira: geoquímica dos sedimentos ativos de corrente. 2. ed. rev. São Paulo: CPRM, 2007. 77 p. MACHADO, Marcely Ferreira; SI"
+   ]
+  },
+  {
+   "id": 21117,
+   "titulo": "Projeto Águas do Norte de Minas, PANM: estudo da disponibilidade hídrica subterrânea do norte de Minas Gerais: relatório de integração",
+   "ano": "2019",
+   "temas": [
+    "E",
+    "F",
+    "G",
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/21117",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/086d5a92-fbab-4115-b001-834d4c36cbb7/content",
+    "bytes": 163371381,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Projeto Águas do Norte de Minas, PANM: estudo da disponibilidade hídrica subterrânea do norte de Minas Gerais: relatório de integração RIGeo · 2019 · página 78 Nessa mesma direção geral acham-se orientados os grandes fal",
+    "Projeto Águas do Norte de Minas, PANM: estudo da disponibilidade hídrica subterrânea do norte de Minas Gerais: relatório de integração RIGeo · 2019 · página 189 … Pardo; abrange as UPGRHs da região nordeste de Minas: Rio",
+    "Projeto Águas do Norte de Minas, PANM: estudo da disponibilidade hídrica subterrânea do norte de Minas Gerais: relatório de integração RIGeo · 2019 · página 189 Produtos: Relatório técnico e mapas hidrogeológicos, na esc"
+   ]
+  },
+  {
+   "id": 21484,
+   "titulo": "Insumos minerais para a construção civil na região metropolitana de Belo Horizonte, estado de Minas Gerais",
+   "ano": "2020",
+   "temas": [
+    "C"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/21484",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/5173dbb1-8af0-4d68-8dc3-01e39b5455b4/content",
+    "bytes": 58121727,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Insumos minerais para a construção civil na região metropolitana de Belo Horizonte, estado de Minas Gerais RIGeo · 2020 · página 121 … para Avaliação do Potencial do Potássio, Fosfato, Terras Raras e Lítio no Brasil, Bra"
+   ]
+  },
+  {
+   "id": 21672,
+   "titulo": "Geologia e recursos minerais das folhas Nova Aurora (SD.23-Z-D-V-4), Rio Pardo de Minas (SD.23-Z-D-V-2) e Santo Antônio do Retiro (SD.23-Z-D-II-4): projeto Rio Pardo de Minas, estado de Minas Gerais",
+   "ano": "2020",
+   "temas": [
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/21672",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/d6201933-5783-4e64-a941-52003e31bf62/content",
+    "bytes": 51245450,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Geologia e recursos minerais das folhas Nova Aurora (SD.23-Z-D-V-4), Rio Pardo de Minas (SD.23-Z-D-V-2) e Santo Antônio do Retiro (SD.23-Z-D-II-4): projeto Rio Pardo de Minas, estado de Minas Gerais RIGeo · 2020 · página"
+   ]
+  },
+  {
+   "id": 21828,
+   "titulo": "Mapa geológico do estado de Minas Gerais",
+   "ano": "2020",
+   "temas": [
+    "E"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/21828",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/97091982-10fe-40a6-958b-d472689a7dc3/content",
+    "bytes": 48003770,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Mapa geológico do estado de Minas Gerais RIGeo · 2020 · página 1 Ressaquinha: biotita granito, granodiorito e quartzo diorito. PP21j Suíte Jurubatuba: ortognaisse de composição granítica, granodiorítica e tonalítica. PP"
+   ]
+  },
+  {
+   "id": 21998,
+   "titulo": "Relatório sintético de acompanhamento de projeto: mapa hidrogeológico do estado de Minas Gerais na escala 1:500.000 e detalhamento do Quadrilátero Ferrífero na escala 1:100.000",
+   "ano": "2020",
+   "temas": [
+    "D"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/21998",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_21998_relatorio-sintetico-de-acompanhamento-de-projeto-mapa-h.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/9577520b-9620-4826-81e5-6d5b38c34ab4/content",
+    "bytes": 1298426,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Relatório sintético de acompanhamento de projeto: mapa hidrogeológico do estado de Minas Gerais na escala 1:500.000 e detalhamento do Quadrilátero Ferrífero na escala 1:100.000 RIGeo · 2020 · página 1 … Qualidade Ambient"
+   ]
+  },
+  {
+   "id": 22454,
+   "titulo": "Projeto Campos das Vertentes: geologia e recursos minerais das folhas Divinópolis (SF.23- X-A-I), Igarapé (SF.23-X-A-II), Entre Rios de Minas (SF.23-X-A-V), Conselheiro Lafaiete(SF.23- X-A-VI), estado de Minas Gerais",
+   "ano": "2021",
+   "temas": [
+    "B",
+    "D",
+    "G",
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/22454",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_22454_projeto-campos-das-vertentes-geologia-e-recursos-minera.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/426eadc8-0b3c-4b88-82f7-4af841f82cd7/content",
+    "bytes": 5128154,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Projeto Campos das Vertentes: geologia e recursos minerais das folhas Divinópolis (SF.23- X-A-I), Igarapé (SF.23-X-A-II), Entre Rios de Minas (SF.23-X-A-V), Conselheiro Lafaiete(SF.23- X-A-VI), estado de Minas Gerais RIG"
+   ]
+  },
+  {
+   "id": 22477,
+   "titulo": "Estudo das argilas dos Vales dos Rios Doce e Jequitinhonha, estado de Minas Gerais",
+   "ano": "2021",
+   "temas": [
+    "B",
+    "C",
+    "F",
+    "G"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/22477",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/ee7267a4-b18d-48d5-a3e1-74622a9dfeb0/content",
+    "bytes": 72091992,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Estudo das argilas dos Vales dos Rios Doce e Jequitinhonha, estado de Minas Gerais RIGeo · 2021 · página 88 Prospectivo para Ametista e Ágata na Fronteira Sudoeste do Rio Grande do Sul, RS, Porto Alegre, 2020. Nº 30 - Ár",
+    "Estudo das argilas dos Vales dos Rios Doce e Jequitinhonha, estado de Minas Gerais RIGeo · 2021 · página 88 … para Avaliação do Potencial do Potássio, Fosfato, Terras Raras e Lítio no Brasil, Brasília, 2015. Nº 02 – Aval",
+    "Estudo das argilas dos Vales dos Rios Doce e Jequitinhonha, estado de Minas Gerais RIGeo · 2021 · página 88 … de Terras Raras no Brasil, Brasília, 2015. Nº 03 – Projeto Avaliação do Potencial do Lítio no Brasil – Área do"
+   ]
+  },
+  {
+   "id": 22525,
+   "titulo": "Atlas aerogeofísico do estado de Minas Gerais",
+   "ano": "2021",
+   "temas": [
+    "A",
+    "C"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/22525",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/999769f0-cce3-4f0b-84c6-92b3f9c1f0ec/content",
+    "bytes": 108358434,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Atlas aerogeofísico do estado de Minas Gerais RIGeo · 2021 · página 22 … Caldas-Varginha-Andrelândia (CODEMIG, 2011); 16) Área 15 – Juiz de Fora-Cataguases-Manhuaçu (CODEMIG, 2011); 17) Área 16 – Padre Paraiso-Nanuque-Ma",
+    "Atlas aerogeofísico do estado de Minas Gerais RIGeo · 2021 · página 8 A PETROBRAS e o CNP, a partir de 1957, retomaram os levantamentos aerogeofísicos sistemáticos em terrenos sedimentares, utilizando o método magnetomét",
+    "Atlas aerogeofísico do estado de Minas Gerais RIGeo · 2021 · página 85 Inserido no contexto dessas anomalias magnéticas, destaca-se o depósito aurífero de São Sebastião, hospedado em formações ferríferas fácies silicato"
+   ]
+  },
+  {
+   "id": 23671,
+   "titulo": "Atlas pluviométrico do Brasil; equações intensidade-duração-frequência (desagregação de precipitações diárias): estação pluviométrica Padre Paraíso; código 01741013 (ANA); município Caraí, MG",
+   "ano": "2014",
+   "temas": [
+    "A",
+    "B",
+    "D",
+    "E",
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/23671",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_23671_atlas-pluviometrico-do-brasil-equacoes-intensidade-dura.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/9ff806fc-65a2-4c39-b97e-d8164c2a1028/content",
+    "bytes": 5272059,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Atlas pluviométrico do Brasil; equações intensidade-duração-frequência (desagregação de precipitações diárias): estação pluviométrica Padre Paraíso; código 01741013 (ANA); município Caraí, MG RIGeo · 2014 · página 8 … Ca",
+    "Atlas pluviométrico do Brasil; equações intensidade-duração-frequência (desagregação de precipitações diárias): estação pluviométrica Padre Paraíso; código 01741013 (ANA); município Caraí, MG RIGeo · 2014 · página 8 … da"
+   ]
+  },
+  {
+   "id": 25295,
+   "titulo": "Carta geológica: folha SD.24-V-C-VI, Olho D'Água do Cruzeiro",
+   "ano": "2024",
+   "temas": [
+    "D"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/25295",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_25295_carta-geologica-folha-sd-24-v-c-vi-olho-d-agua-do-cruze.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/acdc8ea7-a57c-4af2-95b0-15aa1646ef73/content",
+    "bytes": 5758803,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Carta geológica: folha SD.24-V-C-VI, Olho D'Água do Cruzeiro RIGeo · 2024 · página 1 … Bibliográfica: PIRES, A.S.; MENEZES, R. C. L. Projeto Contendas-Macajuba: Olho D' Água do Cruzeiro, Folha SD-24-V-C-VI. Carta Geológi"
+   ]
+  },
+  {
+   "id": 25620,
+   "titulo": "Fomento ao geoturismo: região do Parque Nacional da Serra do Cipó - MG: inventário dos geossítios e sítios da geodiversidade",
+   "ano": "2025",
+   "temas": [
+    "H"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/25620",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/6be52b59-1aa8-45fd-9b09-91c39bb57866/content",
+    "bytes": 103584469,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Fomento ao geoturismo: região do Parque Nacional da Serra do Cipó - MG: inventário dos geossítios e sítios da geodiversidade RIGeo · 2025 · página 89 Serra dos Alves − localizadas no limite sudeste da área, abrangem as C"
+   ]
+  },
+  {
+   "id": 25748,
+   "titulo": "Avaliação do potencial de grafita no Brasil, área província grafítica Bahia-Minas: estado de Minas Gerais",
+   "ano": "2025",
+   "temas": [
+    "G"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/25748",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/b7dc0d27-2789-4786-92a4-bf9cf1024b40/content",
+    "bytes": 40942055,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Avaliação do potencial de grafita no Brasil, área província grafítica Bahia-Minas: estado de Minas Gerais RIGeo · 2025 · página 63 … Província Mineral do Seridó, Estado de Pernambuco, Recife, 2023 Nº 36- Áreas de Relevan"
+   ]
+  },
+  {
+   "id": 25772,
+   "titulo": "Geologia e recursos minerais das folhas Pará de Minas e Nova Serrana: estado de Minas Gerais, escala 1:50.000",
+   "ano": "2025",
+   "temas": [
+    "D"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/25772",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/31480210-1401-4689-bc15-90be23fe0ad9/content",
+    "bytes": 72927281,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Geologia e recursos minerais das folhas Pará de Minas e Nova Serrana: estado de Minas Gerais, escala 1:50.000 RIGeo · 2025 · página 1 GEOLOGIA PARA MINERAÇÃO E DESENVOLVIMENTO SUSTENTÁVEL FOLHAS CARTOGRÁFICAS ESCALA 1:50",
+    "Geologia e recursos minerais das folhas Pará de Minas e Nova Serrana: estado de Minas Gerais, escala 1:50.000 RIGeo · 2025 · página 12 Com a recente conclusão do “Projeto ARIM Áreas de Relevante Interesse Mineral – Noroe",
+    "Geologia e recursos minerais das folhas Pará de Minas e Nova Serrana: estado de Minas Gerais, escala 1:50.000 RIGeo · 2025 · página 11 … sistemática de pontos a cada 500 metros, visando cumprir a meta mínima de um aflora"
+   ]
+  },
+  {
+   "id": 25803,
+   "titulo": "Mapa de favorabilidade para pegmatitos ricos em lítio (espodumênio com ou sem petalita associada) no médio Rio Jequitinhonha, nordeste de Minas Gerais",
+   "ano": "2025",
+   "temas": [
+    "B",
+    "C",
+    "F",
+    "G"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/25803",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_25803_mapa-de-favorabilidade-para-pegmatitos-ricos-em-litio-e.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/bb8f38ef-c664-4e76-bff3-2b58641b9ebc/content",
+    "bytes": 7101440,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Mapa de favorabilidade para pegmatitos ricos em lítio (espodumênio com ou sem petalita associada) no médio Rio Jequitinhonha, nordeste de Minas Gerais RIGeo · 2025 · página 1 SERVIÇO GEOLÓGICO DO BRASIL P ROJETO AVALIAÇÃ",
+    "Mapa de favorabilidade para pegmatitos ricos em lítio (espodumênio com ou sem petalita associada) no médio Rio Jequitinhonha, nordeste de Minas Gerais RIGeo · 2025 · página 1 … de Favorabilidade para Pegmatitos ricos em",
+    "Mapa de favorabilidade para pegmatitos ricos em lítio (espodumênio com ou sem petalita associada) no médio Rio Jequitinhonha, nordeste de Minas Gerais RIGeo · 2025 · página 1 … SALVIO, L.P.P. Mapa de Favorabilidade para"
+   ]
+  },
+  {
+   "id": 26038,
+   "titulo": "Panorama do potencial de minerais críticos e estratégicos do Brasil: edição 2026",
+   "ano": "2026",
+   "temas": [
+    "C"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/26038",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_26038_panorama-do-potencial-de-minerais-criticos-e-estrategic.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/9d2eac39-ada3-4f29-8221-822380c7edd0/content",
+    "bytes": 7826324,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Panorama do potencial de minerais críticos e estratégicos do Brasil: edição 2026 RIGeo · 2026 · página 80 … Parnaíba, estado do Piauí: abordagem com dados geológicos e geoquímicos https://rigeo.sgb.gov.br/handle/doc/2558"
+   ]
+  },
+  {
+   "id": 26040,
+   "titulo": "Ocorrências de elementos terras raras em regolitos associados a granitos tipo a da Faixa Ribeira, sudeste do Brasil",
+   "ano": "2026",
+   "temas": [
+    "C"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/26040",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_26040_ocorrencias-de-elementos-terras-raras-em-regolitos-asso.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/731da7c8-1144-4aca-90e3-34241c342403/content",
+    "bytes": 8087634,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Ocorrências de elementos terras raras em regolitos associados a granitos tipo a da Faixa Ribeira, sudeste do Brasil RIGeo · 2026 · página 2 The results indicate that evolved granites of the Ribeira Belt represent favorab"
+   ]
+  },
+  {
+   "id": 26117,
+   "titulo": "Atlas geoquímico do estado de Minas Gerais",
+   "ano": "2026",
+   "temas": [
+    "B",
+    "C",
+    "E",
+    "G"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/26117",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/e13e4d10-5cdd-46ac-88d1-08d59b359581/content",
+    "bytes": 557460868,
+    "status": "linkado_grande"
+   },
+   "trechos": [
+    "Atlas geoquímico do estado de Minas Gerais RIGeo · 2026 · página 59 Resende e Jacuí. Com relação ao ouro, outros distritos aparecem nas regiões de Mateus Leme – Pitangui (Mateus Leme, Tur- malina, Penha-Onça, Papagaios e",
+    "Atlas geoquímico do estado de Minas Gerais RIGeo · 2026 · página 60 Minas Gerais é o principal produtor de grafita do país, sendo a Provìncia Grafítica do Nordeste de Minas (Pedra Azul, Almenara e Salto da Divisa), a reg",
+    "Atlas geoquímico do estado de Minas Gerais RIGeo · 2026 · página 115 Essas amostras abrangem uma área de 41 mil km², localizada principalmente nas bacias dos rios Jequitinhonha, Mucuri, Doce, Paraíba do Sul e Grande, com"
+   ]
+  },
+  {
+   "id": 26129,
+   "titulo": "Utilização de métodos científicos aerogeofísicos (magnetometria e gamaespectrometria) e análise estrutural para identificação de áreas potenciais com mineração de fosfato na região de pratápolis, Minas Gerais",
+   "ano": "2025",
+   "temas": [
+    "A"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/26129",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_26129_utilizacao-de-metodos-cientificos-aerogeofisicos-magnet.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/002a0011-2f16-4d63-9f9e-36f538a8ce33/content",
+    "bytes": 283284,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Utilização de métodos científicos aerogeofísicos (magnetometria e gamaespectrometria) e análise estrutural para identificação de áreas potenciais com mineração de fosfato na região de pratápolis, Minas Gerais RIGeo · 202"
+   ]
+  },
+  {
+   "id": 26145,
+   "titulo": "Cartografia de risco geológico: atualização de mapeamento: Padre Paraíso, MG",
+   "ano": "2026",
+   "temas": [
+    "A",
+    "B",
+    "D",
+    "E",
+    "I"
+   ],
+   "paginas": null,
+   "handle": "https://rigeo.sgb.gov.br/handle/doc/26145",
+   "pdf": {
+    "hosted": true,
+    "file": "acervo/doc_26145_cartografia-de-risco-geologico-atualizacao-de-mapeament.pdf",
+    "rigeo": "https://rigeo.sgb.gov.br/server/api/core/bitstreams/dd62256a-8062-4070-a760-253a8cce25dd/content",
+    "bytes": 2070113,
+    "status": "baixado"
+   },
+   "trechos": [
+    "Cartografia de risco geológico: atualização de mapeamento: Padre Paraíso, MG RIGeo · 2026 · página 17 … ÁREAS DE RISCO GEOLÓGICO ASSOCIADAS A MOVIMENTOS GRAVITACIONAIS DE MASSA Os setores de risco analisados no município",
+    "Cartografia de risco geológico: atualização de mapeamento: Padre Paraíso, MG RIGeo · 2026 · página 1 Padre Paraíso, MG 2026 MINISTÉRIO DE MINAS E ENERGIA Ministro de Estado Alexandre Silveira de Oliveira Secretária de Ge",
+    "Cartografia de risco geológico: atualização de mapeamento: Padre Paraíso, MG RIGeo · 2026 · página 17 Alto Deslizamento Rua: Teofi Ontoni - Coronel Olinto 101 404 MG_PADREPA_SR_014_SGB. Alto Deslizamento Rua: Olinto de B"
+   ]
+  },
+  {
+   "id": 26146,
+   "titulo": "Exposure of aluminum in the Araçuaí-Itinga Lithium Pegmatite District, Minas Gerais, Brazil: Contaminant and toxicological effects on populations established nearby mining activities",
+   "ano": "2025",
+   "temas": [
+    "G"
+   ],
+   "paginas": null,
+   "handle": "https://jgsb.sgb.gov.br/index.php/journal/article/view/246",
+   "pdf": {
+    "hosted": false,
+    "file": null,
+    "rigeo": null,
+    "bytes": null,
+    "status": "sem_pdf"
+   },
+   "trechos": []
+  }
+ ]
+}

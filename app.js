@@ -22,7 +22,7 @@ const STATE_NAMES = {
   RN: "Rio Grande do Norte", PB: "Paraíba", RO: "Rondônia", RR: "Roraima",
 };
 
-let DATA = null, MAP = null, activeTicker = null, COMPANIES_LAYER = null, QUOTES = null;
+let DATA = null, MAP = null, activeTicker = null, COMPANIES_LAYER = null, QUOTES = null, ACERVO = null;
 const MARKERS = {};
 let LEGEND_COMMODITY_HTML = "", LEGEND_PILOT_HTML = "";
 let PILOT = null;              // { area, buffers, vizinhos, geologia, falhas, fraturas, articulacao, unidades_area }
@@ -60,6 +60,7 @@ async function init() {
   render();
   loadQuotes();
   loadPilot();
+  loadAcervo();
 
   document.getElementById("search").addEventListener("input", render);
   document.getElementById("exchangeFilter").addEventListener("change", render);
@@ -74,6 +75,15 @@ async function init() {
   document.getElementById("reportClose").addEventListener("click", closeReport);
   document.getElementById("reportBackdrop").addEventListener("click", closeReport);
   document.querySelectorAll(".report-tab").forEach(t => t.addEventListener("click", () => openReport(t.dataset.doc)));
+
+  // Acervo geológico (SGB) + visualizador de PDF
+  document.getElementById("acervoBtn").addEventListener("click", openAcervo);
+  document.getElementById("acervoClose").addEventListener("click", closeAcervo);
+  document.getElementById("acervoBackdrop").addEventListener("click", closeAcervo);
+  document.getElementById("acervoSearch").addEventListener("input", renderAcervo);
+  document.getElementById("acervoTema").addEventListener("change", renderAcervo);
+  document.getElementById("pdfClose").addEventListener("click", closePdf);
+  document.getElementById("pdfBackdrop").addEventListener("click", closePdf);
 
   // Legenda recolhível (começa recolhida no celular)
   const legend = document.getElementById("legend");
@@ -227,6 +237,75 @@ function openReport(which) {
 function closeReport() {
   document.getElementById("reportModal").classList.remove("open");
   document.getElementById("reportFrame").src = "about:blank";
+}
+
+/* ---------- Acervo geológico (SGB) ---------- */
+function esc(s) { return String(s == null ? "" : s).replace(/[&<>"]/g, m => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[m])); }
+function fmtMB(b) { return b ? (b >= 1048576 ? (b / 1048576).toFixed(1) + " MB" : Math.round(b / 1024) + " KB") : ""; }
+
+async function loadAcervo() {
+  try { ACERVO = await fetch("data/acervo.json", { cache: "no-cache" }).then(r => r.json()); }
+  catch (e) { const b = document.getElementById("acervoBtn"); if (b) b.style.display = "none"; return; }
+  const cnt = document.getElementById("acervoCount"); if (cnt) cnt.textContent = ACERVO.n_docs;
+  const sel = document.getElementById("acervoTema");
+  Object.keys(ACERVO.temas || {}).sort().forEach(k =>
+    sel.insertAdjacentHTML("beforeend", `<option value="${k}">${k} — ${esc(ACERVO.temas[k])}</option>`));
+  const sub = document.getElementById("acervoSub");
+  if (sub) sub.textContent = `${ACERVO.n_docs} documentos · ${ACERVO.n_hospedados} abrem aqui no site · demais no portal do SGB`;
+}
+function openAcervo() { if (!ACERVO) return; renderAcervo(); document.getElementById("acervoModal").classList.add("open"); }
+function closeAcervo() { document.getElementById("acervoModal").classList.remove("open"); }
+
+function renderAcervo() {
+  if (!ACERVO) return;
+  const q = document.getElementById("acervoSearch").value.trim().toLowerCase();
+  const tema = document.getElementById("acervoTema").value;
+  const docs = ACERVO.docs.filter(d => {
+    if (tema && !(d.temas || []).includes(tema)) return false;
+    if (q) { const hay = (d.titulo + " " + d.ano + " " + (d.trechos || []).join(" ")).toLowerCase(); if (!hay.includes(q)) return false; }
+    return true;
+  });
+  const list = document.getElementById("acervoList");
+  if (!docs.length) { list.innerHTML = `<p class="acervo-empty">Nenhum documento para o filtro.</p>`; return; }
+  list.innerHTML = docs.map(d => {
+    const tags = (d.temas || []).map(t => `<span class="acervo-tag" title="${esc(ACERVO.temas[t] || "")}">${t}</span>`).join("");
+    const p = d.pdf || {};
+    const canView = p.hosted || p.rigeo || d.handle;
+    const viewTarget = p.hosted ? "no site" : "no SGB";
+    const size = p.hosted ? fmtMB(p.bytes) : "";
+    const btns = canView
+      ? `<button class="acervo-btn ver" data-id="${d.id}">👁 Ver <small>${viewTarget}</small></button>
+         <a class="acervo-btn baixar" href="${esc(p.hosted ? p.file : (p.rigeo || d.handle))}" ${p.hosted ? `download` : `target="_blank" rel="noopener"`}>⬇ Baixar</a>`
+      : `<a class="acervo-btn baixar" href="${esc(d.handle)}" target="_blank" rel="noopener">Abrir no SGB ↗</a>`;
+    const trechos = (d.trechos || []).length ? `<div class="acervo-trecho">${esc(d.trechos[0]).slice(0, 300)}…</div>` : "";
+    return `<div class="acervo-row">
+      <div class="acervo-main">
+        <div class="acervo-ttl">${esc(d.titulo)}</div>
+        <div class="acervo-meta">${esc(d.ano)} · <span class="acervo-tags">${tags}</span>${size ? ` · ${size}` : ""} · <a href="${esc(d.handle)}" target="_blank" rel="noopener" class="acervo-src">ficha no RIGeo ↗</a></div>
+        ${trechos}
+      </div>
+      <div class="acervo-actions">${btns}</div>
+    </div>`;
+  }).join("");
+  list.querySelectorAll(".acervo-btn.ver").forEach(b => b.addEventListener("click", () => {
+    const d = ACERVO.docs.find(x => String(x.id) === b.dataset.id); if (!d) return;
+    const p = d.pdf || {};
+    if (p.hosted && p.file) openPdf(p.file, d.titulo, p.file);
+    else window.open(p.rigeo || d.handle, "_blank", "noopener");
+  }));
+}
+
+function openPdf(url, title, downloadUrl) {
+  document.getElementById("pdfTitle").textContent = title || "Documento";
+  document.getElementById("pdfFrame").src = url;
+  document.getElementById("pdfOpen").href = url;
+  const dl = document.getElementById("pdfDownload");
+  dl.href = downloadUrl || url; dl.setAttribute("download", "");
+  document.getElementById("pdfModal").classList.add("open");
+}
+function closePdf() {
+  document.getElementById("pdfModal").classList.remove("open");
+  document.getElementById("pdfFrame").src = "about:blank";
 }
 
 /* ---------- Empresas ---------- */

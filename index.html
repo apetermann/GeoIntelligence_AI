@@ -6,7 +6,7 @@
   <title>GeoIntelligence AI — Visualizador</title>
   <link rel="icon" type="image/png" href="assets/favicon.png" />
   <link rel="stylesheet" href="vendor/leaflet/leaflet.css" />
-  <link rel="stylesheet" href="styles.css?v=16" />
+  <link rel="stylesheet" href="styles.css?v=17" />
 </head>
 <body>
   <div id="app">
@@ -49,6 +49,12 @@
             <label class="layer-toggle sub"><input type="checkbox" id="tglFolhas" /> Folhas 1:100k</label>
           </div>
         </div>
+
+        <div class="layer-group">
+          <label class="layer-toggle"><b>Acervo geológico (SGB)</b></label>
+          <p class="pilot-info">Documentos do SGB sobre a área — ver informações e baixar o PDF</p>
+          <button type="button" id="acervoBtn" class="report-btn">📚 Abrir acervo (<span id="acervoCount">…</span>)</button>
+        </div>
       </div>
 
       <div class="stats" id="stats"></div>
@@ -90,7 +96,43 @@
     </div>
   </div>
 
+  <!-- Modal do acervo geológico (SGB) -->
+  <div id="acervoModal" class="acervo-modal">
+    <div id="acervoBackdrop" class="report-backdrop"></div>
+    <div class="acervo-panel">
+      <div class="acervo-head">
+        <div>
+          <h2>Acervo geológico do SGB — área GME</h2>
+          <p id="acervoSub" class="acervo-sub"></p>
+        </div>
+        <button id="acervoClose" class="report-close" aria-label="Fechar">✕</button>
+      </div>
+      <div class="acervo-tools">
+        <input type="search" id="acervoSearch" placeholder="Buscar documento, ano…" autocomplete="off" />
+        <select id="acervoTema" aria-label="Filtrar por tema"><option value="">Todos os temas</option></select>
+      </div>
+      <div id="acervoList" class="acervo-list"></div>
+      <p class="acervo-foot">Fonte: GeoBusca / RIGeo — Serviço Geológico do Brasil. Documentos hospedados abrem aqui; os maiores abrem no site do SGB. Material de referência — não é relatório certificado.</p>
+    </div>
+  </div>
+
+  <!-- Visualizador de PDF -->
+  <div id="pdfModal" class="report-modal">
+    <div id="pdfBackdrop" class="report-backdrop"></div>
+    <div class="report-panel">
+      <div class="report-head">
+        <div id="pdfTitle" class="pdf-title">Documento</div>
+        <div class="report-actions">
+          <a id="pdfDownload" href="#" download class="report-open">⬇ Baixar</a>
+          <a id="pdfOpen" href="#" target="_blank" rel="noopener" class="report-open">Abrir em nova aba ↗</a>
+          <button id="pdfClose" class="report-close" aria-label="Fechar">✕</button>
+        </div>
+      </div>
+      <iframe id="pdfFrame" title="Documento PDF" src="about:blank"></iframe>
+    </div>
+  </div>
+
   <script src="vendor/leaflet/leaflet.js"></script>
-  <script src="app.js?v=16"></script>
+  <script src="app.js?v=17"></script>
 </body>
 </html>
