@@ -1,0 +1,153 @@
+{
+ "area": {
+  "nome": "Piloto Caladão / GME",
+  "processo": "ANM 832.781/2023",
+  "municipio": "Catují / Padre Paraíso — MG",
+  "titular": "Geo Minérios Engenharia (GME)",
+  "ha": "1.980,61",
+  "alvo": "Terras Raras (prioridade) + Lítio",
+  "contexto": "Orógeno Araçuaí · Província Pegmatítica Oriental ('Vale do Lítio')",
+  "rochas": "Granito Wolf (~1.914 ha) + Granito Caladão (~68 ha)"
+ },
+ "kpis": [
+  {
+   "label": "Alvo",
+   "value": "ETR + Li",
+   "note": "prioridade terras raras"
+  },
+  {
+   "label": "Confiança do modelo",
+   "value": "Alta",
+   "note": "conteúdo da área: a confirmar"
+  },
+  {
+   "label": "Processos mineralizados na mesma rocha",
+   "value": "102",
+   "note": "vizinhos sobre Granito Wolf/Caladão"
+  },
+  {
+   "label": "Caladão (Axel) — vizinho",
+   "value": "708,6 Mt @ 1.443 ppm TREO",
+   "note": "recurso da Axel · NÃO é da GME"
+  }
+ ],
+ "secoes": [
+  {
+   "id": "tese",
+   "titulo": "Tese",
+   "icone": "🎯",
+   "paras": [
+    "A GME é um alvo de <b>terras raras em argila iônica (IAC)</b> por analogia direta com o depósito vizinho do <b>Caladão (Axel)</b>, sobre as mesmas suítes graníticas (G5), com o <b>host do modelo documentado em superfície</b> (saprólito caulinizado sobre leucogranito).",
+    "Lítio pegmatítico é o alvo secundário. <b>O modelo tem confiança alta; o conteúdo econômico da GME é desconhecido</b> — não há sondagem/ensaio público na poligonal."
+   ]
+  },
+  {
+   "id": "analogia",
+   "titulo": "Analogia da vizinhança",
+   "icone": "📍",
+   "bullets": [
+    "<b>102</b> processos mineralizados (Li/pegmatito/ETR) assentam sobre <b>as mesmas rochas</b> da GME (Granito Wolf/Caladão).",
+    "<b>227</b> processos de lítio num raio de 50 km; a <b>Axel tem lítio a 0 km</b> e terras raras a ~10 km, na mesma unidade.",
+    "⚠️ <b>Correção honesta:</b> esses são <b>requerimentos na ANM (interesse)</b>, não depósitos. As ocorrências de Li <b>documentadas</b> ficam a ≥66 km. A GME está na <b>fronteira SE</b> da província, menos explorada."
+   ]
+  },
+  {
+   "id": "caladao",
+   "titulo": "Caladão (Axel) — o análogo",
+   "icone": "💎",
+   "bullets": [
+    "Recurso JORC de ETR em argila iônica: <b>708,6 Mt @ 1.443 ppm TREO</b> (global) + <b>Gálio 575,7 Mt @ 37 ppm</b>. <i>Da Axel, não da GME.</i>",
+    "Mineralização: <b>argila iônica</b> — intemperismo laterítico sobre granitos/leucogranitos; ETR de monazita/xenotima/allanita adsorvida em caulinita.",
+    "Método barato: <b>trado raso (máx. 25 m)</b>, ~294 furos; metalurgia por <b>lixiviação com sulfato de magnésio</b> (lavra in-situ). Base da Axel em Padre Paraíso."
+   ]
+  },
+  {
+   "id": "modelo",
+   "titulo": "Modelo ETR + indícios da GME",
+   "icone": "🧪",
+   "bullets": [
+    "Modelo (SGB 2026): <b>granito evoluído + intemperismo tropical + saprólito caulinizado → ETR concentrada no regolito</b> (processo supergênico).",
+    "A própria apresentação da GME mostra <b>saprólito com caulinização intensa sobre leucogranito</b> — o host do modelo — e posiciona o projeto como terras raras, adjacente à Axel.",
+    "Falta o essencial: <b>teores (TREO), espessura e continuidade</b> do saprólito enriquecido na área."
+   ]
+  },
+  {
+   "id": "radiometria",
+   "titulo": "Radiometria",
+   "icone": "📡",
+   "bullets": [
+    "A GME é coberta pela gamaespectrometria (projeto 3084, Área 16, linha 500 m).",
+    "<b>Tório (eTh)</b> é o melhor vetor para ETR (monazita/allanita são ricas em Th) → zonas férteis tendem a aparecer como <b>altos de eTh</b>.",
+    "⚠️ Grid eTh/eU/K ainda <b>inacessível</b> (portal de download offline) — leitura quantitativa pendente."
+   ]
+  }
+ ],
+ "confianca": {
+  "colunas": [
+   "Linha de evidência",
+   "Lítio",
+   "Terras Raras"
+  ],
+  "linhas": [
+   [
+    "Mesmo contexto geológico (rocha fértil)",
+    "Alta",
+    "Média-alta"
+   ],
+   [
+    "Ocorrências mineralizadas próximas",
+    "Alta*",
+    "Média"
+   ],
+   [
+    "Análogo comprovado ao lado (Caladão)",
+    "Média",
+    "Alta"
+   ],
+   [
+    "Host documentado na GME (saprólito/leucogranito)",
+    "—",
+    "Alta"
+   ],
+   [
+    "Dado direto medido na poligonal",
+    "ausente",
+    "ausente"
+   ],
+   [
+    "POTENCIAL GERAL",
+    "Médio-alto",
+    "Médio-alto"
+   ]
+  ],
+  "nota": "*claims ANM, não depósitos. Potencial ≠ recurso ≠ viabilidade. Não atribuímos à GME os teores da Axel."
+ },
+ "programa": [
+  "Radiometria: obter o grid eTh/eU/K (proj. 3084) e mapear os altos de Th dentro da poligonal → priorizar alvos.",
+  "Amostragem de saprólito/solo (rocha→saprólito→solo) nos altos de Th e leucogranitos; análise de ETR por ICP-MS.",
+  "Trado raso (auger, <25 m) em malha larga sobre os melhores alvos — método de baixo custo da Axel.",
+  "Teste de lixiviação iônica (sulfato de magnésio) nas amostras positivas — define se a ETR é recuperável."
+ ],
+ "numeros": {
+  "vizinhos": 966,
+  "analogos": 102,
+  "evidencias_etr": 17,
+  "evidencias_li": 22,
+  "acervo_docs": 82
+ },
+ "fontes": [
+  {
+   "t": "Axel REE (ASX:AXL) — Caladão Global REE Resource, 24/09/2026",
+   "u": "https://rigeo.sgb.gov.br/"
+  },
+  {
+   "t": "SGB — Informe Técnico 30/2026 (ETR em regolito)",
+   "u": "https://rigeo.sgb.gov.br/handle/doc/26040"
+  },
+  {
+   "t": "SGB — Avaliação do potencial do lítio, Médio Jequitinhonha (2016)",
+   "u": "https://rigeo.sgb.gov.br/handle/doc/17451"
+  }
+ ],
+ "disclaimer": "Material de trabalho da GeoIntelligence AI (Nexial). Os recursos citados são da Axel REE (JORC 2012), não da GME. Potencial ≠ recurso ≠ viabilidade. Não é relatório certificado nem aconselhamento de investimento."
+}

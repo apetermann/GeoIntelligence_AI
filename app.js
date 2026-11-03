@@ -22,7 +22,7 @@ const STATE_NAMES = {
   RN: "Rio Grande do Norte", PB: "Paraíba", RO: "Rondônia", RR: "Roraima",
 };
 
-let DATA = null, MAP = null, activeTicker = null, COMPANIES_LAYER = null, QUOTES = null, ACERVO = null;
+let DATA = null, MAP = null, activeTicker = null, COMPANIES_LAYER = null, QUOTES = null, ACERVO = null, COCKPIT = null;
 const MARKERS = {};
 let LEGEND_COMMODITY_HTML = "", LEGEND_PILOT_HTML = "";
 let PILOT = null;              // { area, buffers, vizinhos, geologia, falhas, fraturas, articulacao, unidades_area }
@@ -61,6 +61,7 @@ async function init() {
   loadQuotes();
   loadPilot();
   loadAcervo();
+  loadCockpit();
 
   document.getElementById("search").addEventListener("input", render);
   document.getElementById("exchangeFilter").addEventListener("change", render);
@@ -84,6 +85,11 @@ async function init() {
   document.getElementById("acervoTema").addEventListener("change", renderAcervo);
   document.getElementById("pdfClose").addEventListener("click", closePdf);
   document.getElementById("pdfBackdrop").addEventListener("click", closePdf);
+
+  // Cockpit de inteligência do piloto
+  document.getElementById("cockpitBtn").addEventListener("click", openCockpit);
+  document.getElementById("cockpitClose").addEventListener("click", closeCockpit);
+  document.getElementById("cockpitBackdrop").addEventListener("click", closeCockpit);
 
   // Legenda recolhível (começa recolhida no celular)
   const legend = document.getElementById("legend");
@@ -306,6 +312,63 @@ function openPdf(url, title, downloadUrl) {
 function closePdf() {
   document.getElementById("pdfModal").classList.remove("open");
   document.getElementById("pdfFrame").src = "about:blank";
+}
+
+/* ---------- Cockpit de inteligência do piloto GME ---------- */
+async function loadCockpit() {
+  try { COCKPIT = await fetch("data/gme_cockpit.json", { cache: "no-cache" }).then(r => r.json()); }
+  catch (e) { const b = document.getElementById("cockpitBtn"); if (b) b.style.display = "none"; }
+}
+function openCockpit() { if (!COCKPIT) return; renderCockpit(); document.getElementById("cockpitModal").classList.add("open"); }
+function closeCockpit() { document.getElementById("cockpitModal").classList.remove("open"); }
+
+function lvlClass(s) {
+  const t = (s || "").toLowerCase();
+  if (t.startsWith("alta")) return "alta";
+  if (t.includes("média-alta") || t.includes("médio-alto")) return "media-alta";
+  if (t.includes("ausente")) return "aus";
+  if (t.startsWith("méd") || t.startsWith("med")) return "media";
+  return "media";
+}
+function renderCockpit() {
+  const d = COCKPIT, a = d.area || {};
+  document.getElementById("ckTitle").textContent = a.nome || "Piloto GME";
+  document.getElementById("ckSub").innerHTML =
+    `${esc(a.processo)} · ${esc(a.municipio)} · ${esc(a.ha)} ha · ${esc(a.titular)}<br>${esc(a.contexto)} — ${esc(a.rochas)}`;
+
+  const kpis = (d.kpis || []).map(k =>
+    `<div class="ck-kpi"><div class="v">${esc(k.value)}</div><div class="l">${esc(k.label)}</div><div class="n">${esc(k.note)}</div></div>`).join("");
+
+  const sections = (d.secoes || []).map(s => {
+    const wide = s.id === "tese" ? " wide" : "";
+    const body = s.paras ? s.paras.map(p => `<p>${p}</p>`).join("")
+      : `<ul>${(s.bullets || []).map(b => `<li>${b}</li>`).join("")}</ul>`;
+    return `<div class="ck-card${wide}"><h3><span class="ic">${s.icone || "•"}</span>${esc(s.titulo)}</h3>${body}</div>`;
+  }).join("");
+
+  const cf = d.confianca || {};
+  const matrix = cf.linhas ? `
+    <div class="ck-h4">Matriz de confiança</div>
+    <table class="ck-matrix">
+      <tr>${(cf.colunas || []).map(c => `<th>${esc(c)}</th>`).join("")}</tr>
+      ${cf.linhas.map(r => `<tr><td>${esc(r[0])}</td>
+        <td><span class="lvl ${lvlClass(r[1])}">${esc(r[1])}</span></td>
+        <td><span class="lvl ${lvlClass(r[2])}">${esc(r[2])}</span></td></tr>`).join("")}
+    </table>${cf.nota ? `<p class="ck-note">${esc(cf.nota)}</p>` : ""}` : "";
+
+  const program = (d.programa || []).length ? `
+    <div class="ck-h4">Programa mínimo (converter potencial em dado)</div>
+    <ol class="ck-program">${d.programa.map(p => `<li>${esc(p)}</li>`).join("")}</ol>` : "";
+
+  const sources = (d.fontes || []).length ? `
+    <div class="ck-h4">Fontes</div>
+    <div class="ck-sources">${d.fontes.map(f => `<a class="ck-src" href="${esc(f.u)}" target="_blank" rel="noopener">${esc(f.t)} ↗</a>`).join("")}</div>` : "";
+
+  document.getElementById("cockpitBody").innerHTML =
+    `<div class="ck-kpis">${kpis}</div>
+     <div class="ck-sections">${sections}</div>
+     ${matrix}${program}${sources}
+     ${d.disclaimer ? `<p class="ck-disclaimer">${esc(d.disclaimer)}</p>` : ""}`;
 }
 
 /* ---------- Empresas ---------- */

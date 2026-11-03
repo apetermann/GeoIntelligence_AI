@@ -3,21 +3,34 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>GeoIntelligence AI — Visualizador</title>
+  <title>GeoIntelligence AI — Nexial</title>
   <link rel="icon" type="image/png" href="assets/favicon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" />
   <link rel="stylesheet" href="vendor/leaflet/leaflet.css" />
-  <link rel="stylesheet" href="styles.css?v=17" />
+  <link rel="stylesheet" href="styles.css?v=18" />
 </head>
 <body>
+  <header id="topbar">
+    <div class="tb-brand">
+      <span class="tb-logo-wrap"><img src="assets/nexial-logo.png" alt="Nexial Partners" class="tb-logo" /></span>
+      <span class="tb-divider"></span>
+      <div class="tb-titles">
+        <span class="tb-name">GeoIntelligence<span class="grad"> AI</span></span>
+        <span class="tb-tag">Plataforma de inteligência geológica · Nexial</span>
+      </div>
+    </div>
+    <div class="tb-actions">
+      <span class="tb-pilot">Piloto: <b>Caladão / GME</b> · ETR + Li</span>
+      <span class="tb-chip">beta</span>
+    </div>
+  </header>
+
   <div id="app">
     <aside id="sidebar">
       <header class="sidebar-header">
-        <div class="brand">
-          <img src="assets/nexial-logo.png" alt="Nexial Partners" class="brand-nexial" />
-        </div>
-        <h1>GeoIntelligence <span>AI</span></h1>
-        <p class="subtitle">Visualizador de inteligência geológica — empresas listadas de mineração e piloto Caladão / GME</p>
-        <button type="button" id="reportBtn" class="report-btn">📄 Relatório geológico (PDF)</button>
+        <p class="subtitle">Empresas listadas de mineração + <b>inteligência do piloto Caladão / GME</b> (terras raras + lítio) a partir de dados públicos (ANM, SGB, bolsas).</p>
       </header>
 
       <div class="controls">
@@ -35,12 +48,13 @@
           </div>
         </div>
 
-        <div class="layer-group">
+        <div class="layer-group pilot-group">
           <label class="layer-toggle">
             <b>Piloto Caladão / GME</b>
             <button type="button" id="pilotFocus" title="Focar no piloto e ligar as camadas">focar</button>
           </label>
-          <p class="pilot-info">832.781/2023 · Catují/MG · lítio (ANM)</p>
+          <p class="pilot-info">832.781/2023 · Catují/MG · alvo ETR + lítio</p>
+          <button type="button" id="cockpitBtn" class="cta-primary">🧭 Inteligência do piloto</button>
           <div class="pilot-layers">
             <label class="layer-toggle sub"><input type="checkbox" id="tglGeologia" /> Geologia 1:250k</label>
             <label class="layer-toggle sub"><input type="checkbox" id="tglVizinhos" /> Vizinhos + Axel</label>
@@ -48,12 +62,10 @@
             <label class="layer-toggle sub"><input type="checkbox" id="tglBuffers" /> Buffers (km)</label>
             <label class="layer-toggle sub"><input type="checkbox" id="tglFolhas" /> Folhas 1:100k</label>
           </div>
-        </div>
-
-        <div class="layer-group">
-          <label class="layer-toggle"><b>Acervo geológico (SGB)</b></label>
-          <p class="pilot-info">Documentos do SGB sobre a área — ver informações e baixar o PDF</p>
-          <button type="button" id="acervoBtn" class="report-btn">📚 Abrir acervo (<span id="acervoCount">…</span>)</button>
+          <div class="pilot-cta-row">
+            <button type="button" id="reportBtn" class="cta-ghost">📄 Relatórios</button>
+            <button type="button" id="acervoBtn" class="cta-ghost">📚 Acervo (<span id="acervoCount">…</span>)</button>
+          </div>
         </div>
       </div>
 
@@ -76,6 +88,22 @@
         <div id="legendBody" class="legend-body"></div>
       </div>
     </main>
+  </div>
+
+  <!-- Cockpit de inteligência do piloto GME -->
+  <div id="cockpitModal" class="cockpit-modal">
+    <div id="cockpitBackdrop" class="report-backdrop"></div>
+    <div class="cockpit-panel">
+      <div class="cockpit-head">
+        <div class="ck-head-left">
+          <span class="ck-badge">INTELIGÊNCIA DO PILOTO</span>
+          <h2 id="ckTitle">Caladão / GME</h2>
+          <p id="ckSub" class="ck-sub"></p>
+        </div>
+        <button id="cockpitClose" class="report-close" aria-label="Fechar">✕</button>
+      </div>
+      <div id="cockpitBody" class="cockpit-body"></div>
+    </div>
   </div>
 
   <!-- Modal do relatório (PDF) -->
@@ -133,6 +161,6 @@
   </div>
 
   <script src="vendor/leaflet/leaflet.js"></script>
-  <script src="app.js?v=17"></script>
+  <script src="app.js?v=18"></script>
 </body>
 </html>
